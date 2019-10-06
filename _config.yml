@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siteng Huang (黄思腾)"
+  name             : "Siteng Huang"
   avatar           : "profile.png"
   bio              : "Ph.D. Student @ Westlake University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "kyonhuang [at] qq [dot] com"
+  email            : "huangsiteng@westlake.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

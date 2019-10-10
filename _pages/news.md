@@ -7,8 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-Recent News
-======
-
 * **[November 3 - November 7, 2019]** I will attend the 28th ACM International Conference on Information and Knowledge Management (CIKM) held in Beijing, China.
 * **[August 9, 2019]** One paper got accepted to [CIKM 2019](http://cikm2019.net/).

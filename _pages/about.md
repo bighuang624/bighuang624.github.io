@@ -12,7 +12,7 @@ Hi! I am Siteng Huang (黄思腾). I am a joint Ph.D. student of [Westlake Unive
 
 Before coming to Westlake University, I obtained my degree of Bachelor of Engineering from [School of Computer Science](http://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), majoring Software Engineering.
 
-Always look forward to **research interns** and cooperation opportunities. If you are interested. please don't hesitate to contact me. My email address is huangsiteng [at] westlake.edu.cn.
+Always look forward to **research interns** and cooperation opportunities. Feel free to reach out to me if you are interested. My email address is huangsiteng [at] westlake.edu.cn.
 {: .notice}
 
 Currently, I am also looking for **research assistants for MiLAB** as my collaborator. You can get more information about it [here](https://www.westlake.edu.cn/info/1301/3480.htm), and if you are interested in my research direction, please let me know it from the email.
@@ -27,6 +27,6 @@ Awards & Honors
 ======
 
 * First Prize Scholarship, Wuhan University, 2018
-* Second Prize Scholarship x 2, Wuhan University, 2016-2017
+* Second Prize Scholarship × 2, Wuhan University, 2016-2017
 
 

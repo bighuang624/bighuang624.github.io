@@ -12,7 +12,7 @@ redirect_from:
 Education
 ===
 
-* Joint Doctor of Philosophy Student (Joint Ph.D. Student) - Computer Science (2019-currently)
+* Joint Doctor of Philosophy Student (Joint Ph.D. Student) - Computer Science (2019-)
   * Westlake University & Zhejiang University, China
 * Bachelors of Engineering (B.Eng) - Software Engineering (2015-2019)
   * Wuhan University, China

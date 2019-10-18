@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/dual-self-attention-network
 excerpt: 'In this paper, we propose a dual self-attention network (DSANet) for highly efficient multivariate time series forecasting.'
 date: 2019-11-03
-venue: 'Proceedings of CIKM 2019 (Short Paper)'
+venue: 'Proceedings of CIKM 2019 (Short Paper, Oral)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Siteng Huang, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. CIKM 2019.'
 ---

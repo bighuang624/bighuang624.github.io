@@ -21,7 +21,7 @@ Currently, I am also looking for **research assistants for MiLAB** as my collabo
 Publications
 ======
 
-* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. In *Proceedings of CIKM 2019 (Short Paper, Oral)*, Beijing, China. [paper] [bib] [[code](https://github.com/bighuang624/DSANet)] [poster] [slide]
+* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. In *Proceedings of CIKM 2019 (Short Paper, Oral)*, Beijing, China. [paper](https://kyonhuang.top/files/Huang-DSANet.pdf) [bib] [[code](https://github.com/bighuang624/DSANet)] [poster] [slide]
 
 Awards & Honors
 ======

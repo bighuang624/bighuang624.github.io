@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+[markup-html-tags-and-formatting](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾). I am a joint Ph.D. student of [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](http://www.zju.edu.cn/), advised by Dr. [Donglin Wang](https://www.westlake.edu.cn/info/1408/3011.htm). Also, I am a member of MiLAB(Machine Intelligence Lab) in Westlake University, where I do my research work. My research interests lie within robot learning, particularly in few-shot learning and transfer learning. I am also interested in sequence modeling, multimodal machine learning and deep learning.
+Hi! I am Siteng Huang (黄思腾). I am a joint Ph.D. student of [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](http://www.zju.edu.cn/), advised by Dr. [Donglin Wang](https://www.westlake.edu.cn/info/1408/3011.htm). Also, I am a member of MiLAB(Machine Intelligence Laboratory) in Westlake University, where I do my research work. My research interests lie within robot learning, particularly in few-shot learning, multi-task learnings and transfer learning. I am also interested in sequence modeling, multimodal machine learning and deep learning.
 
 Before coming to Westlake University, I obtained my degree of Bachelor of Engineering from [School of Computer Science](http://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), majoring Software Engineering.
 
@@ -21,7 +21,7 @@ Currently, I am also looking for **research assistants for MiLAB** as my collabo
 Publications
 ======
 
-* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. In *Proceedings of CIKM 2019 (Short Paper, Oral)*, Beijing, China. [[paper](https://kyonhuang.top/files/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#BibTex)] [[code](https://github.com/bighuang624/DSANet)] [poster] [slide]
+* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. In *Proceedings of CIKM 2019 (Short Paper, Oral)*, Beijing, China. [[paper](https://kyonhuang.top/files/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/cikm19-DSANet-poster.pdf)] [slide]
 
 Awards & Honors
 ======

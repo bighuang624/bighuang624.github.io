@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾). I am a joint Ph.D. student of [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](http://www.zju.edu.cn/), advised by Dr. [Donglin Wang](https://www.westlake.edu.cn/info/1408/3011.htm). Also, I am a member of MiLAB(Machine Intelligence Laboratory) in Westlake University, where I do my research work. My research interests lie within robot learning, particularly in few-shot learning, multi-task learnings and transfer learning. I am also interested in sequence modeling, multimodal machine learning and deep learning.
+Hi! I am Siteng Huang (黄思腾). I am a joint Ph.D. student of [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](http://www.zju.edu.cn/), advised by Dr. [Donglin Wang](https://www.westlake.edu.cn/info/1408/3011.htm). Also, I am a member of MiLAB(Machine Intelligence Laboratory) in Westlake University, where I do my research work. My research interests lie within robot learning, particularly in few-shot learning, multi-task learning and transfer learning. I am also interested in sequence modeling, multimodal machine learning and deep learning.
 
 Before coming to Westlake University, I obtained my degree of Bachelor of Engineering from [School of Computer Science](http://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), majoring Software Engineering.
 

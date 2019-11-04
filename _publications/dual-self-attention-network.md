@@ -10,6 +10,7 @@ venue: 'Proceedings of CIKM 2019 (Short Paper, Oral)'
 [paper](https://kyonhuang.top/files/Huang-DSANet.pdf){: .btn .btn--info} 
 [code](https://github.com/bighuang624/DSANet){: .btn .btn--info}
 [poster](https://kyonhuang.top/files/cikm19-DSANet-poster.pdf){: .btn .btn--info}
+[slide](https://kyonhuang.top/files/cikm19-DSANet-presentation.pdf){: .btn .btn--info}
 
 ![](https://raw.githubusercontent.com/bighuang624/DSANet/master/docs/DSANet-model-structure.png)
 

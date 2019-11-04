@@ -15,19 +15,18 @@ Before coming to Westlake University, I obtained my degree of Bachelor of Engine
 Always open to research interns (maybe after my first year of Ph.D.) and cooperation opportunities. Feel free to reach out to me if you are interested. My email address is huangsiteng [at] westlake.edu.cn.
 {: .notice--info}
 
-Currently, I am also looking for **research assistants for MiLAB** as my collaborator. You can get more information about it [here](https://www.westlake.edu.cn/info/1301/3480.htm), and if you are interested in my research direction, please let me know it from the email.
+Currently, I am also looking for **research assistants for MiLAB** as my collaborator. You can get more information about it [here](https://www.westlake.edu.cn/info/1301/3724.htm), and if you are interested in my research direction, please let me know it from the email.
 {: .notice--warning}
 
 Publications
 ======
 
-* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. In *Proceedings of CIKM 2019 (Short Paper, Oral)*, Beijing, China. [[paper](https://kyonhuang.top/files/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/cikm19-DSANet-poster.pdf)] [slide]
+* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang. &quot;DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting&quot;. In *Proceedings of CIKM 2019 (Short Paper, Oral)*, Beijing, China. [[paper](https://kyonhuang.top/files/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/cikm19-DSANet-presentation.pdf)]
 
 Awards & Honors
 ======
 
 * First Prize Scholarship, Wuhan University, 2018
 * Third Prize of [Citi Financial Innovation Application Competition](http://www.citigroup.com/china/csts/EducationProgram/AboutEducation_CFCcn.html), 2017
-* Second Prize Scholarship × 2, Wuhan University, 2016-2017
 
 

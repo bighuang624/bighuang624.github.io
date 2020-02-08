@@ -17,7 +17,9 @@ Education
 * Bachelors of Engineering (B.Eng) - Software Engineering (2015-2019)
   * Wuhan University, China
 
-Personal
-===
+Awards & Honors
+======
 
-* I have a [blog](https://kyonhuang.top/blog/) in Chinese.
+* First Prize Scholarship, Wuhan University, 2018
+* Third Prize of [Citi Financial Innovation Application Competition](http://www.citigroup.com/china/csts/EducationProgram/AboutEducation_CFCcn.html), 2017
+

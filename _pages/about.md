@@ -15,7 +15,7 @@ Before coming to Westlake University, I obtained my bachelor's degree of Enginee
 Always open to research interns (after my first year of Ph.D.) and cooperation opportunities. Feel free to reach out to me if you are interested. My email address is huangsiteng [at] westlake.edu.cn.
 {: .notice--info}
 
-Currently, we are looking for **research assistants and visiting students for MiLAB**. You can get more information about requirements for research assistants [here](https://www.westlake.edu.cn/info/1301/3724.htm), and if you are still in school, being a visiting student is also welcome. Specially, if you are interested in my research direction and want to be my collaborator after coming, please let us know it from the email.
+Currently, we are looking for **research assistants and visiting students for MiLAB**. More information about requirements for research assistants [here](https://www.westlake.edu.cn/info/1301/3724.htm), and if you are still in school, being a visiting student is also welcome. Please send email to mi_lab [at] westlake.edu.cn with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please let us know it from the email.
 {: .notice--warning}
 
 Publications

@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-===
+### Education
 
 * Joint Doctor of Philosophy Student (Joint Ph.D. Student) - Computer Science (2019-)
   * Westlake University & Zhejiang University, China
 * Bachelors of Engineering (B.Eng) - Software Engineering (2015-2019)
   * Wuhan University, China
 
-Awards & Honors
-======
+### Awards & Honors
 
 * First Prize Scholarship, Wuhan University, 2018
 * Third Prize of [Citi Financial Innovation Application Competition](http://www.citigroup.com/china/csts/EducationProgram/AboutEducation_CFCcn.html), 2017

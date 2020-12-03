@@ -7,10 +7,10 @@ date: 2019-11-03
 venue: 'Proceedings of CIKM 2019 (Short Paper, Oral)'
 ---
 
-[paper](https://kyonhuang.top/files/Huang-DSANet.pdf){: .btn .btn--info} 
+[paper](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf){: .btn .btn--info} 
 [code](https://github.com/bighuang624/DSANet){: .btn .btn--info}
-[poster](https://kyonhuang.top/files/cikm19-DSANet-poster.pdf){: .btn .btn--info}
-[slide](https://kyonhuang.top/files/cikm19-DSANet-presentation.pdf){: .btn .btn--info}
+[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf){: .btn .btn--info}
+[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf){: .btn .btn--info}
 
 
 ## Abstract

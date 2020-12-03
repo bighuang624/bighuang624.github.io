@@ -2,8 +2,8 @@
 title: "Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition"
 collection: publications
 permalink: /publication/attributes-guided-attention-module
-excerpt: '<img align="center" src="https://kyonhuang.top/files/AGAM/AGAM-intuition.png" /> In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features for few-shot recognition. This plug-and-play module enables visual contents and corresponding attributes to collectively focus on important channels and regions for support set. And the feature selection is also achieved for query set with only visual information while the attributes are not available. Therefore, representations from both sets are improved in a fine-grained manner. Moreover, an attention alignment mechanism is proposed to distill knowledge from the guidance of attributes to the pure-visual branch for samples without attributes. Extensive experiments and analysis show that our proposed module can significantly improve simple metric-based approaches to achieve state-of-the-art performance on different datasets and settings.'
-date: 2021-02-02
+excerpt: '<img align="middle" style="max-width: 800px" src="https://kyonhuang.top/files/AGAM/AGAM-intuition.png" /> In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features for few-shot recognition. This plug-and-play module enables visual contents and corresponding attributes to collectively focus on important channels and regions for support set. And the feature selection is also achieved for query set with only visual information while the attributes are not available. Therefore, representations from both sets are improved in a fine-grained manner. Moreover, an attention alignment mechanism is proposed to distill knowledge from the guidance of attributes to the pure-visual branch for samples without attributes. Extensive experiments and analysis show that our proposed module can significantly improve simple metric-based approaches to achieve state-of-the-art performance on different datasets and settings.'
+# date: 2021-02-02
 venue: 'Proceedings of AAAI 2021'
 ---
 
@@ -16,9 +16,7 @@ venue: 'Proceedings of AAAI 2021'
 
 ## Background
 
-The purpose of few-shot recognition is to recognize novel categories with a limited number of labeled examples in each class. To encourage learning from a supplementary view, recent approaches have introduced auxiliary semantic modalities into effective metric-learning frameworks that aim to learn a feature similarity between training samples (support set) and test samples (query set). However, these approaches only augment the representations of samples with available semantics while ignoring the query set, which loses the potential for the improvement and may lead to a shift between the modalities combination and the pure-visual representation. 
-
-In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features. Contributions are:
+The purpose of few-shot recognition is to recognize novel categories with a limited number of labeled examples in each class. To encourage learning from a supplementary view, recent approaches have introduced auxiliary semantic modalities into effective metric-learning frameworks that aim to learn a feature similarity between training samples (support set) and test samples (query set). However, these approaches only augment the representations of samples with available semantics while ignoring the query set, which loses the potential for the improvement and may lead to a shift between the modalities combination and the pure-visual representation. In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features. Contributions are:
 
 1. AGAM utilizes powerful channel-wise and spatial-wise attention to learn what information to emphasize or suppress. While considerably improving the representativeness and discriminability of representations in a fine-grained manner, features extracted by both visual contents and corresponding attributes share the same space with pure-visual features.
 
@@ -54,9 +52,9 @@ Results on the SUN dataset:
 
 ### Visualization Analysis
 
-<!-- ![](https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png) -->
+![](https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png)
 
-<img align="center" src="https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png" />
+<!-- <img align="middle" src="https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png" /> -->
 
 Gradient-weighted class activation mapping (Grad-CAM) visualization of query samples. Each row is the result of the same query sample, and each column is: (a) Original images. (b) Results of Prototypical Network. (c) Results of AGAM but removing the attention alignment mechanism. (d) Results of the complete AGAM. It is observed that incorporating the complete AGAM helps to attend to more representative local features.
 

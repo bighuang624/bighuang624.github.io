@@ -2,7 +2,7 @@
 title: "Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition"
 collection: publications
 permalink: /publication/attributes-guided-attention-module
-excerpt: '<div align="middle"><img align="middle" style="max-width: 560px" src="https://kyonhuang.top/files/AGAM/AGAM-intuition.png" /></div> In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features for few-shot recognition. This plug-and-play module enables visual contents and corresponding attributes to collectively focus on important channels and regions for the support set. And the feature selection is also achieved for query set with only visual information while the attributes are not available. Therefore, representations from both sets are improved in a fine-grained manner. Moreover, an attention alignment mechanism is proposed to distill knowledge from the guidance of attributes to the pure-visual branch for samples without attributes. Extensive experiments and analysis show that our proposed module can significantly improve simple metric-based approaches to achieve state-of-the-art performance on different datasets and settings.'
+excerpt: '<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://kyonhuang.top/files/AGAM/AGAM-intuition.png" /></div> In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features for few-shot recognition. This plug-and-play module enables visual contents and corresponding attributes to collectively focus on important channels and regions for the support set. And the feature selection is also achieved for query set with only visual information while the attributes are not available. Therefore, representations from both sets are improved in a fine-grained manner. Moreover, an attention alignment mechanism is proposed to distill knowledge from the guidance of attributes to the pure-visual branch for samples without attributes. Extensive experiments and analysis show that our proposed module can significantly improve simple metric-based approaches to achieve state-of-the-art performance on different datasets and settings.'
 date: 2021-02-02
 venue: 'Proceedings of AAAI 2021'
 ---
@@ -54,7 +54,7 @@ Results on the SUN dataset:
 
 <!-- ![](https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png) -->
 
-<div align="middle"><img align="middle" style="max-width: 500px" src="https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png" /></div>
+<div align="middle"><img align="middle" style="max-width: 500px; width: 100%" src="https://kyonhuang.top/files/AGAM/AGAM-Grad-CAM.png" /></div>
 
 Gradient-weighted class activation mapping (Grad-CAM) visualization of query samples. Each row is the result of the same query sample, and each column is: (a) Original images. (b) Results of Prototypical Network. (c) Results of AGAM but removing the attention alignment mechanism. (d) Results of the complete AGAM. It is observed that incorporating the complete AGAM helps to attend to more representative local features.
 

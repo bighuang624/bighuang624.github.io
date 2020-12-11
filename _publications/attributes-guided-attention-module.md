@@ -64,9 +64,9 @@ If our paper and codes are helpful for you research, please cite our paper:
 
 <pre>
 @inproceedings{Huang2021AGAM,
-  author = {Huang, Siteng and Zhang, Min and Kang, Yachen and Wang, Donglin},
+  author = {Siteng Huang and Min Zhang and Yachen Kang and Donglin Wang},
   title = {Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition},
-  booktitle = {The 35th AAAI Conference on Artificial Intelligence (AAAI 2021)},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)},
   month = {February},
   year = {2021}
 }

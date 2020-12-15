@@ -13,6 +13,7 @@ venue: 'Proceedings of AAAI 2021'
 
 [arXiv (expanded version)](https://arxiv.org/abs/2009.04724){: .btn .btn--info}
 [code](https://github.com/bighuang624/AGAM){: .btn .btn--info}
+[slide (Chinese)](https://kyonhuang.top/files/AGAM/AGAM-slide-Chinese.pdf){: .btn .btn--info}
 
 ## Background
 

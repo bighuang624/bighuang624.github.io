@@ -28,13 +28,25 @@ We are looking for **research assistants and visiting students for MiLAB** (curr
 Publications
 ======
 
-* **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (AAAI 2021). [[project page]](https://kyonhuang.top/publication/attributes-guided-attention-module) [[arXiv (expanded version)]](https://arxiv.org/abs/2009.04724) [[bib]](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex) [[code]](https://github.com/bighuang624/AGAM) [[poster]](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf) [[slide (Chinese)]](https://kyonhuang.top/files/AGAM/AGAM-slide-Chinese.pdf)
+* **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
 
-* **Siteng Huang**, Donglin Wang, Xuehan Wu and Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (CIKM 2019). [[project page]](https://kyonhuang.top/publication/dual-self-attention-network) [[paper]](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf) [[bib]](https://kyonhuang.top/publication/dual-self-attention-network#bibtex) [[code]](https://github.com/bighuang624/DSANet) [[poster]](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf) [[slide]](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)
+* **Siteng Huang**, Donglin Wang, Xuehan Wu and Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[paper](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
+
+<!-- * **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page]](https://kyonhuang.top/publication/attributes-guided-attention-module) [[arXiv]](https://arxiv.org/abs/2009.04724) [[bib]](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex) [[code]](https://github.com/bighuang624/AGAM) [[poster]](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf) [[slide]](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)
+
+* **Siteng Huang**, Donglin Wang, Xuehan Wu and Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page]](https://kyonhuang.top/publication/dual-self-attention-network) [[paper]](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf) [[bib]](https://kyonhuang.top/publication/dual-self-attention-network#bibtex) [[code]](https://github.com/bighuang624/DSANet) [[poster]](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf) [[slide]](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf) -->
+
+<!-- * **Siteng Huang**, Donglin Wang, Xuehan Wu and Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019, Short Oral**). [[project page]](https://kyonhuang.top/publication/dual-self-attention-network) [[paper]](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf) [[bib]](https://kyonhuang.top/publication/dual-self-attention-network#bibtex) [[code]](https://github.com/bighuang624/DSANet) [[poster]](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf) [[slide]](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf) -->
 
 Personal
-===
+======
 
 * [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) / [Chinese Blog](https://kyonhuang.top/blog/)
 
 
+<!-- Professional Services
+======
+
+I am open to peer review and organizing chances in the field of meta learning, xx, and xx.
+
+Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->

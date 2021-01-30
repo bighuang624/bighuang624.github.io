@@ -7,8 +7,6 @@ date: 2019-11-03
 venue: 'Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019)'
 ---
 
-<!-- Proceedings of CIKM 2019 (Short Paper, Oral) -->
-
 [paper](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf){: .btn .btn--info} 
 [code](https://github.com/bighuang624/DSANet){: .btn .btn--info}
 [poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf){: .btn .btn--info}

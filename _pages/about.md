@@ -20,6 +20,12 @@ Always open to research interns and cooperation opportunities. Feel free to reac
 We are looking for **research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements for research assistants [here](https://www.westlake.edu.cn/Careers/OpenPositions/research/202012/t20201223_7545.shtml), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please let us know it from the email.
 {: .notice--warning}
 
+News
+======
+
+* **[December 2, 2020]** [One paper](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted to the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Congratulations to all collaborators!
+* **[October 21, 2020]** I was awarded with National Scholarship for Ph.D. Students.
+
 <!-- Pre-prints
 ======
 	
@@ -46,3 +52,5 @@ Personal
 I am open to peer review and organizing chances in the field of meta learning, xx, and xx.
 
 Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
+
+<div align="middle"><img align="middle" style="max-width: 420px; width: 100%" src="https://milab.westlake.edu.cn/images/logo.png" /></div>

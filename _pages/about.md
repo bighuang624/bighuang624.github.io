@@ -12,14 +12,14 @@ Hi! I am Siteng Huang (黄思腾). I am a joint Ph.D. student of [Westlake Unive
 
 Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering.
 
-### Research Interests
+## Research Interests
 
 I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning. I am also interested in deep learning, computer vision, natural language processing, and multimodal machine learning.
 
-### News
+## News
 
-* **[December 2, 2020]** [One paper](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted to the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Congratulations to all collaborators!
-* **[October 21, 2020]** I was awarded with National Scholarship for Ph.D. Students.
+* **[March 4, 2021]** One participating paper got accepted for CVPR 2021.
+* **[December 2, 2020]** [One paper](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
 Always open to research interns and cooperation opportunities. Feel free to reach out to me if you are interested. My email address is huangsiteng [at] westlake.edu.cn.
 {: .notice--info}
@@ -33,6 +33,8 @@ We are looking for **research assistants and visiting students for MiLAB** (curr
 * **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://arxiv.org/abs/2009.04724)&quot;. *arXiv preprint arXiv:2009.04724*. -->
 
 ## Publications
+
+* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;Pareto Self-Supervised Training for Few-Shot Learning&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**).
 
 * **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
 

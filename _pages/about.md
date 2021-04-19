@@ -34,7 +34,7 @@ We are looking for **research assistants and visiting students for MiLAB** (curr
 
 ## Publications
 
-* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;Pareto Self-Supervised Training for Few-Shot Learning&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**).
+* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;Pareto Self-Supervised Training for Few-Shot Learning&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
 
 * **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
 

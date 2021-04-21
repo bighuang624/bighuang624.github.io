@@ -18,6 +18,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## News
 
+* **[April 21, 2021]** One participating paper got accepted for ICMR 2021.
 * **[March 4, 2021]** One participating paper got accepted for CVPR 2021.
 * **[December 2, 2020]** [One paper](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
@@ -33,6 +34,8 @@ We are looking for **research assistants and visiting students for MiLAB** (curr
 * **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://arxiv.org/abs/2009.04724)&quot;. *arXiv preprint arXiv:2009.04724*. -->
 
 ## Publications
+
+* Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network&quot;. In *Proceedings of ACM International Conference on Multimedia Retrieval 2021* (**ICMR 2021**).
 
 * Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;Pareto Self-Supervised Training for Few-Shot Learning&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
 

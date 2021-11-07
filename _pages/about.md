@@ -58,4 +58,7 @@ I am open to peer review and organizing chances in the field of meta learning, x
 
 Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
 
-<div align="middle"><img align="middle" style="max-width: 420px; width: 100%" src="https://milab.westlake.edu.cn/images/logo.png" /></div>
+<div align="middle">
+  <img align="middle" style="max-width: 400px; width: 100%; margin-right: 10px; margin-top: 10px" src="https://milab.westlake.edu.cn/images/logo.png" />
+  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 10px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" />
+</div>

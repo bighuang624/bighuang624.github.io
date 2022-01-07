@@ -12,6 +12,9 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Wes
 
 Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering.
 
+I am **seeking research intern opportunities** in 2022 for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV](https://kyonhuang.top/files/SitengHuang-CV.pdf) and feel free to reach out to me if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
+{: .notice--warning}
+
 ## Research Interests
 
 I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few-shot learning tasks. I am also interested in deep learning, computer vision, natural language processing, and multimodal machine learning.
@@ -22,14 +25,14 @@ I am interested in technologies that allow machines and robots to learn like hum
 * **[March 4, 2021]** One participating paper got accepted for CVPR 2021.
 * **[December 2, 2020]** [One paper](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
-**Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
+**Service**: Always open to paper review, talk and organizing opportunities. Feel free to email me if you are interested.
 {: .notice--info}
 
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
-**Hiring**: We are looking for **research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements for research assistants [here](https://www.westlake.edu.cn/Careers/OpenPositions/research/202012/t20201223_7545.shtml), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please let us know it from the email.
-{: .notice--warning}
+**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please let us know it from the email.
+{: .notice--info}
 
 <!-- Pre-prints
 ======

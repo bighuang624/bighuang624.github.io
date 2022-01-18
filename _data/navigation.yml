@@ -15,6 +15,9 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "CV"
-    url: /files/SitengHuang-CV.pdf
+  - title: "CV (Chinese)"
+    url: /files/SitengHuang-CV-cn.pdf
+
+  - title: "CV (English)"
+    url: /files/SitengHuang-CV-en.pdf
     

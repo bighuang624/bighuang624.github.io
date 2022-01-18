@@ -12,7 +12,7 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Wes
 
 Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering.
 
-I am **seeking research intern opportunities** in 2022 for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV](https://kyonhuang.top/files/SitengHuang-CV.pdf) and feel free to reach out to me if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
+I am **seeking research intern opportunities** in 2022 for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to reach out to me if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--warning}
 
 ## Research Interests
@@ -21,9 +21,10 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## News
 
-* **[April 21, 2021]** One participating paper got accepted for ICMR 2021.
-* **[March 4, 2021]** One participating paper got accepted for CVPR 2021.
-* **[December 2, 2020]** [One paper](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
+* **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times accorading to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
+* **[April 21, 2021]** One paper got accepted for ICMR 2021.
+* **[March 4, 2021]** One paper got accepted for CVPR 2021.
+* **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
 **Service**: Always open to paper review, talk and organizing opportunities. Feel free to email me if you are interested.
 {: .notice--info}
@@ -41,13 +42,13 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## Publications
 
-* Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**).
-
-* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;[Pareto Self-Supervised Training for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
+* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
 
 * **Siteng Huang**, Min Zhang, Yachen Kang, Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16957)&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
 
-* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[paper](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
+* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;[Pareto Self-Supervised Training for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
+
+* Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
 
 ## Misc
 

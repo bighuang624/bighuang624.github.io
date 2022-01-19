@@ -12,7 +12,7 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Wes
 
 Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering.
 
-I am **seeking research intern opportunities** in 2022 for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to reach out to me if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
+I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--warning}
 
 ## Research Interests
@@ -26,7 +26,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 * **[March 4, 2021]** One paper got accepted for CVPR 2021.
 * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
-**Service**: Always open to paper review, talk and organizing opportunities. Feel free to email me if you are interested.
+**Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested.
 {: .notice--info}
 
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.

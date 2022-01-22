@@ -21,6 +21,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## News
 
+* **[January 22, 2022]** One paper got accepted for ICASSP 2022.
 * **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times accorading to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
 * **[April 21, 2021]** One paper got accepted for ICMR 2021.
 * **[March 4, 2021]** One paper got accepted for CVPR 2021.
@@ -49,6 +50,8 @@ I am interested in technologies that allow machines and robots to learn like hum
 * Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;[Pareto Self-Supervised Training for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
 
 * Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
+
+* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;Domain Generalized Few-shot Image Classification via Meta Regularization Network&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**).
 
 ## Misc
 

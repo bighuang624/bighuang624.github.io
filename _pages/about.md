@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](http://www.zju.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Also, I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning. 
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning. Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering.
+<!-- Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering. -->
 
-I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
-{: .notice--warning}
+<!-- I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
+{: .notice--warning} -->
 
 ## Research Interests
 
-I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few-shot learning tasks. I am also interested in deep learning, computer vision, natural language processing, and multimodal machine learning.
+I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning.
 
 ## News
 
+* **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
 * **[January 22, 2022]** One paper got accepted for ICASSP 2022.
 * **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times accorading to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
 * **[April 21, 2021]** One paper got accepted for ICMR 2021.
@@ -51,7 +52,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 * Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
 
-* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;Domain Generalized Few-shot Image Classification via Meta Regularization Network&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**).
+* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;Domain Generalized Few-shot Image Classification via Meta Regularization Network&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
 
 ## Misc
 
@@ -66,6 +67,6 @@ I am open to peer review and organizing chances in the field of meta learning, x
 Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
 
 <div align="middle">
-  <img align="middle" style="max-width: 400px; width: 100%; margin-right: 10px; margin-top: 10px" src="https://milab.westlake.edu.cn/images/logo.png" />
-  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 10px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" />
+  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://milab.westlake.edu.cn/images/logo.png" />
+  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" />
 </div>

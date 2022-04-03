@@ -17,13 +17,13 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhe
 
 ## Research Interests
 
-I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning.
+I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning.
 
 ## News
 
 * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
 * **[January 22, 2022]** One paper got accepted for ICASSP 2022.
-* **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times accorading to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
+* **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times according to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
 * **[April 21, 2021]** One paper got accepted for ICMR 2021.
 * **[March 4, 2021]** One paper got accepted for CVPR 2021.
 * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!

@@ -38,10 +38,9 @@ I am interested in technologies that allow machines and robots to learn like hum
 **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info}
 
-<!-- Pre-prints
-======
+## Pre-prints
 	
-* **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://arxiv.org/abs/2009.04724)&quot;. *arXiv preprint arXiv:2009.04724*. -->
+* **Siteng Huang**, Qiyao Wei and Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://arxiv.org/abs/2208.10046)&quot;. *arXiv preprint arXiv:2208.10046*. [[pdf](https://arxiv.org/pdf/2208.10046.pdf)]
 
 ## Publications
 

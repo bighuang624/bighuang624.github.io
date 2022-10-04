@@ -54,7 +54,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 * Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
 
-* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)]
+* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
 
 ## Misc
 

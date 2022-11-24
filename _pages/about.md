@@ -40,7 +40,9 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## Pre-prints
 	
-* **Siteng Huang**, Qiyao Wei and Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://arxiv.org/abs/2208.10046)&quot;. *arXiv preprint arXiv:2208.10046*. [[pdf](https://arxiv.org/pdf/2208.10046.pdf)]
+* **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://arxiv.org/abs/2208.10046)&quot;. *arXiv preprint arXiv:2208.10046*. [[pdf](https://arxiv.org/pdf/2208.10046.pdf)]
+
+* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;[VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval](https://arxiv.org/abs/2211.12764)&quot;. *arXiv preprint arXiv:2211.12764*. [[pdf](https://arxiv.org/pdf/2211.12764.pdf)]
 
 ## Publications
 
@@ -54,7 +56,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 * Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
 
-* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
+* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;[Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_26)&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
 
 ## Misc
 
@@ -69,6 +71,6 @@ I am open to peer review and organizing chances in the field of meta learning, x
 Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
 
 <div align="middle">
-  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://milab.westlake.edu.cn/images/logo.png" />
+  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" />
   <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" />
 </div>

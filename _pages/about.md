@@ -42,7 +42,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 	
 * **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://arxiv.org/abs/2208.10046)&quot;. *arXiv preprint arXiv:2208.10046*. [[pdf](https://arxiv.org/pdf/2208.10046.pdf)]
 
-* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;[VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval](https://arxiv.org/abs/2211.12764)&quot;. *arXiv preprint arXiv:2211.12764*. [[pdf](https://arxiv.org/pdf/2211.12764.pdf)]
+* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;[VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval](https://arxiv.org/abs/2211.12764)&quot;. *arXiv preprint arXiv:2211.12764*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[pdf](https://arxiv.org/pdf/2211.12764.pdf)] [[github](https://github.com/bighuang624/VoP)]
 
 ## Publications
 

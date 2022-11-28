@@ -2,7 +2,7 @@
 title: "VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval"
 collection: publications
 permalink: /publication/text-video-cooperative-prompt-tuning
-excerpt: '<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-comparison.png" /></div> In this work, we propose the **VoP**: Text-**V**ideo C**o**-operative **P**rompt Tuning for efficient tuning on the text-video retrieval task. The proposed VoP is an end-to-end framework with both video & text prompts introducing, which can be regarded as a powerful baseline with only **0.1%** trainable parameters. Further, based on the spatio-temporal characteristics of videos, we develop three novel video prompt mechanisms to improve the performance with different scales of trainable parameters. The basic idea of the VoP enhancement is to model the frame position, frame context, and layer function with specific trainable prompts, respectively. Extensive experiments show that compared to full finetuning, the enhanced VoP achieves a **1.4%** average R@1 gain across five text-video retrieval benchmarks with **6×** less parameter overhead.'
+excerpt: '<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-comparison.png" /></div> In this work, we propose the **VoP**: Text-**V**ideo C**o**-operative **P**rompt Tuning for efficient tuning on the text-video retrieval task. The proposed VoP is an end-to-end framework with both video & text prompts introducing, which can be regarded as a powerful baseline with only **0.1%** trainable parameters. Further, based on the spatio-temporal characteristics of videos, we develop three novel video prompt mechanisms to improve the performance with different scales of trainable parameters. The basic idea of the VoP enhancement is to model the frame position, frame context, and layer function with specific trainable prompts, respectively. Extensive experiments show that compared to full finetuning, the enhanced VoP achieves a **1.4%** average R@1 gain across five text-video retrieval benchmarks with **6×** less parameter overhead.'
 date: 2022-11-28
 venue: 'arXiv'
 ---
@@ -11,6 +11,8 @@ venue: 'arXiv'
 [github](https://github.com/bighuang624/VoP){: .btn .btn--info}
 
 ## Background
+
+<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-comparison.png" /></div>
 
 <!-- In this paper, we introduce prompt tuning to address the challenges that limit the transferability and generalizability. Keeping the backbone frozen and only tuning a few extra parameters prepended to the input, prompt tuning has been widely applied as a flexible and light-weight fine-tuning protocol. Compared to uni-modal applications, text-video cross-modal retrieval requires more parameters to support the dualbranch structure, making it logical to benefit from the parameter-efficient tuning strategy. In addition, different from text descriptions that compose sequential information from words, video-understanding requires summarizing information in both the spatial and temporal dimensions. Therefore, we assume that designing nontrivial video prompts further contributes to prompting both branches for mutual promotion. -->
 Many recent studies leverage the pre-trained CLIP for text-video cross-modal retrieval by tuning the backbone with additional heavy modules, which not only brings huge computational burdens with much more parameters, but also leads to the knowledge forgetting from upstream models. In this paper, we continue the vein of prompt tuning to transfer pre-trained CLIP for text-video retrieval with both effectiveness and efficiency. Main contributions are:
@@ -46,11 +48,11 @@ Here we report some experimental results to empirically show the effectiveness a
 
 *t2v* relative results on all datasets:
 
-<div align="middle"><img align="middle" style="max-width: 700px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-t2v-results.png" /></div>
+<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-t2v-results.png" /></div>
 
 ### Qualitative Results
 
-<div align="middle"><img align="middle" style="max-width: 850px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-qualitative-results.png" /></div>
+![](https://kyonhuang.top/files/VoP/VoP-qualitative-results.png)
 
 <!-- We represent the retrieval results of four tuning methods: Full, Partial, VoP, and VoP<sup>F+C</sup>.  -->
 

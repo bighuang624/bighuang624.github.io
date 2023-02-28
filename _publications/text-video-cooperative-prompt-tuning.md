@@ -3,12 +3,13 @@ title: "VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval"
 collection: publications
 permalink: /publication/text-video-cooperative-prompt-tuning
 excerpt: '<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-comparison.png" /></div> In this work, we propose the **VoP**: Text-**V**ideo C**o**-operative **P**rompt Tuning for efficient tuning on the text-video retrieval task. The proposed VoP is an end-to-end framework with both video & text prompts introducing, which can be regarded as a powerful baseline with only **0.1%** trainable parameters. Further, based on the spatio-temporal characteristics of videos, we develop three novel video prompt mechanisms to improve the performance with different scales of trainable parameters. The basic idea of the VoP enhancement is to model the frame position, frame context, and layer function with specific trainable prompts, respectively. Extensive experiments show that compared to full finetuning, the enhanced VoP achieves a **1.4%** average R@1 gain across five text-video retrieval benchmarks with **6×** less parameter overhead.'
-date: 2022-11-28
+date: 2023-02-28
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR 2023)'
 ---
 
 [arXiv](https://arxiv.org/abs/2211.12764){: .btn .btn--info}
 [github](https://github.com/bighuang624/VoP){: .btn .btn--info}
+[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary){: .btn .btn--info}
 
 ## Background
 

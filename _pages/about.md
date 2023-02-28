@@ -51,7 +51,7 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ### Peer-reviewed Conference
 
-* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)]
+* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)]
 
 * Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;[Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_26)&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
 

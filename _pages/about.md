@@ -27,10 +27,10 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## News
 
+* **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
 * **[July 4, 2022]** One paper got accepted for ECCV 2022.
 * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
 * **[January 22, 2022]** One paper got accepted for ICASSP 2022.
-* **[April 21, 2021]** One paper got accepted for ICMR 2021.
 * **[March 4, 2021]** One paper got accepted for CVPR 2021.
 * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
@@ -49,9 +49,9 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 * **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://arxiv.org/abs/2208.10046)&quot;. *arXiv preprint arXiv:2208.10046*. [[pdf](https://arxiv.org/pdf/2208.10046.pdf)]
 
-* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;[VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval](https://arxiv.org/abs/2211.12764)&quot;. *arXiv preprint arXiv:2211.12764*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[pdf](https://arxiv.org/pdf/2211.12764.pdf)] [[github](https://github.com/bighuang624/VoP)]
-
 ### Peer-reviewed Conference
+
+* **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)]
 
 * Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;[Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_26)&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
 

@@ -81,7 +81,7 @@ If our paper and codes are helpful for you research, please cite our paper:
 <pre>
 @inproceedings{Huang2019DSANet,
   author = {Siteng Huang and Donglin Wang and Xuehan Wu and Ao Tang},
-  title = {DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting},
+  title = {{DSANet}: Dual Self-Attention Network for Multivariate Time Series Forecasting},
   booktitle = {Proceedings of the 28th {ACM} International Conference on Information and Knowledge Management},
   month = {November},
   year = {2019},

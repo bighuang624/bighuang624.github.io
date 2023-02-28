@@ -69,7 +69,7 @@ If you find this work useful in your research, please cite our paper:
 
 <pre>
 @inproceedings{Huang2023VoP,
-    title={{VoP}: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval},
+    title={VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval},
     author={Siteng Huang and Biao Gong and Yulin Pan and Jianwen Jiang and Yiliang Lv and Yuyuan Li and Donglin Wang},
     booktitle = {Proceedings of the {IEEE/CVF} Conference on Computer Vision and Pattern Recognition 2023},
     month = {June},

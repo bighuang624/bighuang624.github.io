@@ -42,6 +42,8 @@ Here we report some experimental results to empirically show the effectiveness a
 
 ### Main Results
 
+The following results are obtained with a pre-trained CLIP (ViT-B/32). More experimental results can be found in the paper.
+
 *t2v* and *v2t* retrieval results on MSR-VTT-9k dataset:
 
 ![](https://kyonhuang.top/files/VoP/VoP-MSRVTT9k-results.png)
@@ -66,7 +68,7 @@ Here we report some experimental results to empirically show the effectiveness a
 If you find this work useful in your research, please cite our paper:
 
 <pre>
-@inproceedings{Huang2022VoP,
+@inproceedings{Huang2023VoP,
     title={{VoP}: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval},
     author={Siteng Huang and Biao Gong and Yulin Pan and Jianwen Jiang and Yiliang Lv and Yuyuan Li and Donglin Wang},
     booktitle = {Proceedings of the {IEEE/CVF} Conference on Computer Vision and Pattern Recognition 2023},

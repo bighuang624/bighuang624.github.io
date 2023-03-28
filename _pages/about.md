@@ -47,6 +47,8 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ### Preprints & Under Submission
 
+* **Siteng Huang**, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;[Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning](https://arxiv.org/abs/2303.15230)&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
+
 * **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://arxiv.org/abs/2208.10046)&quot;. *arXiv preprint arXiv:2208.10046*. [[pdf](https://arxiv.org/pdf/2208.10046.pdf)]
 
 ### Peer-reviewed Conference

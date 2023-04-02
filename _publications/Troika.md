@@ -2,8 +2,8 @@
 title: "Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning"
 collection: publications
 permalink: /publication/Troika
-excerpt: '<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-paradigm-comparison.png" /></div> With a particular focus on the universality of the solution, in this work, we propose a novel **Multi-Path paradigm** for VLM-based CZSL models that establishes three identification branches to jointly model the state, object, and composition. The presented **Troika** is an outstanding implementation that aligns the branch-specific prompt representations with decomposed visual features. To calibrate the bias between semantically similar multi-modal representations, we further devise a **Cross-Modal Traction module** into Troika that shifts the prompt representation towards the current visual content. Experiments show that on the closed-world setting, Troika exceeds the current state-of-the-art methods by up to **+7.4%** HM and **+5.7%** AUC. And on the more challenging open-world setting, Troika still surpasses the best CLIP-based method by up to **+3.8%** HM and **+2.7%** AUC.'
-date: 2023-03-12
+excerpt: '<div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-paradigm-comparison.png" /></div> With a particular focus on the universality of the solution, in this work, we propose a novel **Multi-Path paradigm** for VLM-based CZSL models that establishes three identification branches to jointly model the state, object, and composition. The presented **Troika** is an outstanding implementation that aligns the branch-specific prompt representations with decomposed visual features. To calibrate the bias between semantically similar multi-modal representations, we further devise a **Cross-Modal Traction module** into Troika that shifts the prompt representation towards the current visual content. Experiments show that on the closed-world setting, Troika exceeds the current state-of-the-art methods by up to **+7.4%** HM and **+5.7%** AUC. And on the more challenging open-world setting, Troika still surpasses the best CLIP-based method by up to **+3.8%** HM and **+2.7%** AUC.'
+date: 2023-03-28
 venue: 'arXiv preprint arXiv:2303.15230'
 ---
 
@@ -24,19 +24,19 @@ Recent compositional zero-shot learning (CZSL) methods adapt pre-trained vision-
 
 ## Generalizing in Multi-Path Paradigm
 
-<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-paradigm-comparison.png" /></div>
+<div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-paradigm-comparison.png" /></div>
 
-## Troika: An Outstanding Implementation
+## Troika: Our Implementation
 
 ![](https://kyonhuang.top/files/Troika/Troika-overview.png)
 
 ### Instantiations
 
-<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-prompt-comparison.png" /></div>
+<div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-prompt-comparison.png" /></div>
 
 ### Cross-Modal Traction
 
-<div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-CMT.png" /></div>
+<div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-CMT.png" /></div>
 
 <!-- We propose the **VoP**: Text-**V**ideo C**o**-operative **P**rompt Tuning to simultaneously introduce tunable prompts in both textual and visual encoders. Also, different from existing related efforts that only insert prompt vectors into the input textual sequences, we find that preparing prompts for every layer of both encoders can further close the gap to full fine-tuning. To exploit essential video-specific information, we further design three novel video prompts from different perspectives, which can seamlessly replace conventional visual prompts in VoP. Specifically, 
 

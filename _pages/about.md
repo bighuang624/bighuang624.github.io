@@ -1,19 +1,17 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Siteng Huang 黄思腾"
+excerpt: "Siteng Huang 黄思腾"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning. Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-<!-- Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering. -->
-
-<!-- I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
-{: .notice--warning} -->
+I am **seeking exciting industry opportunities for both research and applications after June 2024**. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng[at]westlake.edu.cn`.
+{: .notice--warning}
 
 ## Research Interests
 
@@ -22,7 +20,7 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhe
 I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my research has centered on
 
 * **Transfer Learning**: parameter-efficient transfer learning, meta-learning
-* **Multi-modal Learning**: vision-language pre-training, text-video retrieval
+* **Multi-modal Learning**: text-to-image generation, vision-language pre-training, text-video retrieval
 * **Computer Vision**: few-shot learning, compositional zero-shot learning
 
 ## News
@@ -51,9 +49,9 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ### Peer-reviewed Conference
 
-* **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;Reference-Limited Compositional Zero-Shot Learning&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[arXiv](https://arxiv.org/abs/2208.10046)]
-
 * **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)]
+
+* **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;Reference-Limited Compositional Zero-Shot Learning&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[github](https://github.com/bighuang624/RL-CZSL)]
 
 * Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;[Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_26)&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
 
@@ -66,6 +64,10 @@ I am interested in technologies that allow machines and robots to learn like hum
 * **Siteng Huang**, Min Zhang, Yachen Kang, Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16957)&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
 
 * **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
+
+## Professional Experience
+
+* Mar. 2022 - Present. Research Intern. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Zhejiang, China.
 
 ## Professional Services
 

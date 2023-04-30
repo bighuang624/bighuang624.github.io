@@ -11,6 +11,8 @@ venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Re
 [github](https://github.com/bighuang624/VoP){: .btn .btn--info}
 [ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary){: .btn .btn--info}
 
+<!-- ![](https://img.shields.io/badge/arXiv-2211.12764-B31B1B?style=flat) -->
+
 ## Background
 
 <div align="middle"><img align="middle" style="max-width: 560px; width: 100%" src="https://kyonhuang.top/files/VoP/VoP-comparison.png" /></div>

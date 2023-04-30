@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-I am **seeking exciting industry opportunities for both research and applications after June 2024**. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng[at]westlake.edu.cn`.
+I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:huangsiteng@westlake.edu.cn) if you are interested!
 {: .notice--warning}
 
 ## Research Interests
@@ -32,13 +32,13 @@ I am interested in technologies that allow machines and robots to learn like hum
 * **[March 4, 2021]** One paper got accepted for CVPR 2021.
 * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
-**Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested.
-{: .notice--info}
+<!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
+<!-- {: .notice--info} -->
 
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
-**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
+**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[at]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info}
 
 ## Publications
@@ -51,11 +51,11 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 * **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)]
 
-* **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;Reference-Limited Compositional Zero-Shot Learning&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[github](https://github.com/bighuang624/RL-CZSL)]
+* **Siteng Huang**, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://doi.org/10.1145/3591106.3592225)&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[github](https://github.com/bighuang624/RL-CZSL)] 
 
-* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;[Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_26)&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)]
+* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;[Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_26)&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)] [[Chinese intro](https://zhuanlan.zhihu.com/p/543878686)] [[github](https://github.com/remiMZ/HTS-ECCV22)]
 
-* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
+* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)] [[github](https://github.com/remiMZ/MRN-ICASSP22)]
 
 * Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 ACM International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
 
@@ -74,6 +74,10 @@ I am interested in technologies that allow machines and robots to learn like hum
 ### Journal Reviewer
 
 * [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+
+### Program Committee and/or Reviewer for Conferences and Workshops
+
+* [ICCV 2023](https://iccv2023.thecvf.com/)
 
 ## Misc
 

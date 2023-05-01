@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:huangsiteng@westlake.edu.cn) if you are interested!
 {: .notice--warning}
@@ -38,14 +38,10 @@ I am interested in technologies that allow machines and robots to learn like hum
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
-**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[at]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
+**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info}
 
 ## Publications
-
-### Preprints & Under Submission
-
-* **Siteng Huang**, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;[Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning](https://arxiv.org/abs/2303.15230)&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
 ### Peer-reviewed Conference
 
@@ -65,9 +61,13 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 * **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
 
+### Preprints & Under Submission
+
+![](https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat) **Siteng Huang**, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;[Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning](https://arxiv.org/abs/2303.15230)&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
+
 ## Professional Experience
 
-* Mar. 2022 - Present. Research Intern. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Zhejiang, China.
+* Mar. 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China.
 
 ## Professional Services
 

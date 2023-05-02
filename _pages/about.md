@@ -17,11 +17,23 @@ I am **seeking exciting industry opportunities for both research and application
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my research has centered on
+Currently, my research has centered on
 
-* **Transfer Learning**: parameter-efficient transfer learning, meta-learning
-* **Multi-modal Learning**: text-to-image generation, vision-language pre-training, text-video retrieval
-* **Computer Vision**: few-shot learning, compositional zero-shot learning
+* **Transfer Learning**: parameter-efficient fine-tuning (PEFT / PETL), meta-learning
+* **Multi-modal Learning**: text-to-image generation (T2I / AIGC), vision-language pre-trained models (VLM), text-video retrieval (TVR)
+* **Computer Vision**: few-shot learning (FSL), compositional zero-shot learning (CZSL)
+
+In the longer term, I am more concerned about
+
+* giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.
+
+<!-- 
+1. 快速迁移，尤其是大模型
+2. 机器人的主动学习，感知智能与行为智能 embodied
+3. 开放世界
+-->
+
+<!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.  -->
 
 ## News
 
@@ -83,7 +95,10 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## Professional Experience
 
-* Mar. 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China.
+<!-- * Mar. 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
+
+<div style="float:left;">Research Intern</div><div style="float:right;">Mar. 2022 - Present</div>
+<div style="float:left;"><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Hangzhou, China</div>
 
 ## Professional Services
 

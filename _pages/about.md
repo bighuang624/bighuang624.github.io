@@ -23,6 +23,8 @@ Currently, my research has centered on
 * **Multi-modal Learning**: text-to-image generation (T2I / AIGC), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Computer Vision**: few-shot learning (FSL), compositional zero-shot learning (CZSL)
 
+<!-- language-augmented vision -->
+
 In the longer term, I am more concerned about
 
 * giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.
@@ -83,11 +85,14 @@ In the longer term, I am more concerned about
 
 <a href="https://dl.acm.org/doi/10.1145/3460426.3463614"><img src="https://img.shields.io/badge/ICMR-2021-blue?style=flat-square"></a> Zifeng Zhuang, Xintao Xiang, <u>Siteng Huang</u>, Donglin Wang, &quot;**HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network**&quot;. In *Proceedings of the 2021 ACM International Conference on Multimedia Retrieval*. [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
 
-<a href="https://ieeexplore.ieee.org/document/9577454"><img src="https://img.shields.io/badge/CVPR-2021-blue?style=flat-square"></a> Zhengyu Chen, Jixie Ge, Heshen Zhan, <u>Siteng Huang</u>, Donglin Wang, &quot;**Pareto Self-Supervised Training for Few-Shot Learning**&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition*. [[arXiv](https://arxiv.org/abs/2104.07841)] [[open access](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)] 
+<a href="https://ieeexplore.ieee.org/document/9577454"><img src="https://img.shields.io/badge/CVPR-2021-blue?style=flat-square"></a> Zhengyu Chen, Jixie Ge, Heshen Zhan, <u>Siteng Huang</u>, Donglin Wang, &quot;**Pareto Self-Supervised Training for Few-Shot Learning**&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition*. [[arXiv](https://arxiv.org/abs/2104.07841)] [[open access](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC"><img src="https://img.shields.io/badge/dynamic/json?color=orange&label=citations&query=publications.1.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&style=flat-square"></a>
 
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16957"><img src="https://img.shields.io/badge/AAAI-2021-blue?style=flat-square"></a> <u>Siteng Huang</u>, Min Zhang, Yachen Kang, Donglin Wang, &quot;**Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition**&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence*. [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16957"><img src="https://img.shields.io/badge/AAAI-2021-blue?style=flat-square"></a> <u>Siteng Huang</u>, Min Zhang, Yachen Kang, Donglin Wang, &quot;**Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition**&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence*. [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC"><img src="https://img.shields.io/badge/dynamic/json?color=orange&label=citations&query=publications.2.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&style=flat-square"></a>
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132"><img src="https://img.shields.io/badge/CIKM-2019-blue?style=flat-square"></a> <u>Siteng Huang</u>, Donglin Wang, Xuehan Wu, Ao Tang, &quot;**DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting**&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management*. [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
+<a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132"><img src="https://img.shields.io/badge/CIKM-2019-blue?style=flat-square"></a> <u>Siteng Huang</u>, Donglin Wang, Xuehan Wu, Ao Tang, &quot;**DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting**&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management*. [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC"><img src="https://img.shields.io/badge/dynamic/json?color=orange&label=citations&query=publications.0.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&style=flat-square"></a>
+
+
+<!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
 ### Preprints & Under Submission
 
@@ -95,10 +100,14 @@ In the longer term, I am more concerned about
 
 ## Professional Experience
 
-<!-- * Mar. 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
+* Mar. 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China.
 
-<div style="float:left;">Research Intern</div><div style="float:right;">Mar. 2022 - Present</div>
-<div style="float:left;"><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Hangzhou, China</div>
+<!-- <div style="float:left;">Research Intern</div><div style="float:right;">Mar. 2022 - Present</div>
+<div style="float:left;"><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Hangzhou, China</div> -->
+
+<!-- <div>
+<div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
+</div> -->
 
 ## Professional Services
 

@@ -9,20 +9,24 @@ venue: 'Proceedings of the 2023 ACM International Conference on Multimedia Retri
 
 [arXiv](https://arxiv.org/abs/2208.10046){: .btn .btn--info}
 [github](https://github.com/bighuang624/RL-CZSL){: .btn .btn--info}
+[video (Google Drive)](https://drive.google.com/file/d/1_wE_zbyvuGil_LrkmumotkRTLJJEUfCm/view?usp=drive_link){: .btn .btn--info}
+[slide](https://kyonhuang.top/files/RLCZSL/ICMR23-RLCZSL-presentation.pdf){: .btn .btn--info}
 
 ## Introduction
 
 Compositional zero-shot learning (CZSL) refers to recognizing unseen compositions of known visual primitives, which is an essential ability for artificial intelligence systems to learn and understand the world. While considerable progress has been made on existing benchmarks, we suspect whether popular CZSL methods can address the challenges of few-shot and few referential compositions, which is common when learning in real-world unseen environments. In this paper, our contributions are:
 
-1. We introduce a new problem named **reference-limited compositional zero-shot learning (RL-CZSL)**, where given only a few samples of limited compositions, the model is required to generalize to recognize unseen compositions. This offers a more realistic and challenging environment for evaluating compositional learners.
+* We introduce a new problem named **reference-limited compositional zero-shot learning (RL-CZSL)**, where given only a few samples of limited compositions, the model is required to generalize to recognize unseen compositions. This offers a more realistic and challenging environment for evaluating compositional learners.
 
 <div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/RLCZSL/RLCZSL-setting-comparison.png" /></div>
 
-2. We establish **two benchmark datasets with diverse compositional labels and well-designed data splits**, providing the required platform for systematically assessing progress on the task.
+* We establish **two benchmark datasets with diverse compositional labels and well-designed data splits**, providing the required platform for systematically assessing progress on the task.
 
 <div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://kyonhuang.top/files/RLCZSL/RLCZSL-dataset-stats.png" /></div>
 
-3. We propose a novel method, **Meta Compositional Graph Learner (MetaCGL)**, for the challenging RL-CZSL problem. Experimental results show that MetaCGL consistently outperforms popular baselines on recognizing unseen compositions. 
+* We propose a novel method, **Meta Compositional Graph Learner (MetaCGL)**, for the challenging RL-CZSL problem. Experimental results show that MetaCGL consistently outperforms popular baselines on recognizing unseen compositions. 
+
+<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://kyonhuang.top/files/RLCZSL/RLCZSL-main-results.png" /></div>
 
 ## BibTex
 

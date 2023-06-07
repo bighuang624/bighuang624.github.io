@@ -9,6 +9,9 @@ venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Re
 
 [arXiv](https://arxiv.org/abs/2211.12764){: .btn .btn--info}
 [github](https://github.com/bighuang624/VoP){: .btn .btn--info}
+[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI){: .btn .btn--info}
+[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf){: .btn .btn--info}
+[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf){: .btn .btn--info}
 [ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary){: .btn .btn--info}
 
 <!-- ![](https://img.shields.io/badge/arXiv-2211.12764-B31B1B?style=flat) -->

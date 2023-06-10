@@ -56,9 +56,9 @@ Here we report some experimental results to empirically show the effectiveness o
 
 ### Main Results
 
-The following results are obtained with a pre-trained CLIP (ViT-L/14). More experimental results can be found in the paper.
-
 ![](https://kyonhuang.top/files/Troika/Troika-SOTA.png)
+
+The above results are obtained with a pre-trained CLIP (ViT-L/14). More experimental results can be found in the paper.
 
 ### Qualitative Results
 

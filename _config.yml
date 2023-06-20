@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siteng Huang"
   avatar           : "profile.png"
-  bio              : "Joint Ph.D. Student @ Zhejiang University & Westlake University"
+  bio              : "Ph.D. Student @ Zhejiang University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "huangsiteng@westlake.edu.cn"
+  email            : "siteng.huang@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -1,6 +1,9 @@
 # main links links
 main:
   - title: "Publications"
+    url: \#publications
+
+  - title: "Projects"
     url: /publications/
 
   # - title: "News"
@@ -15,9 +18,9 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "CV (Chinese)"
-    url: /files/SitengHuang-CV-cn.pdf
+  # - title: "CV (Chinese)"
+  #   url: /files/SitengHuang-CV-cn.pdf
 
-  - title: "CV (English)"
-    url: /files/SitengHuang-CV-en.pdf
+  # - title: "CV (English)"
+  #   url: /files/SitengHuang-CV-en.pdf
     

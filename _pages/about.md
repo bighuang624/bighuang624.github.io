@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+<!-- Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019. -->
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:huangsiteng@westlake.edu.cn) if you are interested!
-{: .notice--warning}
+<!-- <span style="color:red;">I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:siteng.huang@gmail.com) if you are interested!</span> -->
+<span style="color:red;">I am <br>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</br>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
 
 ## Research Interests
+
+<h2 id='research-interests'>Research Interests</h2>
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
@@ -23,11 +26,13 @@ Currently, my research has centered on
 * **Multi-modal Learning**: text-to-image generation (T2I / AIGC), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Computer Vision**: few-shot learning (FSL), compositional zero-shot learning (CZSL)
 
+I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
+
 <!-- language-augmented vision -->
 
-In the longer term, I am more concerned about
+<!-- In the longer term, I am more concerned about
 
-* giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.
+* giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. -->
 
 <!-- 
 1. 快速迁移，尤其是大模型
@@ -37,7 +42,7 @@ In the longer term, I am more concerned about
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.  -->
 
-## News
+<h2 id='news'>News</h2>
 
 * **[April 2, 2023]** One paper got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
@@ -91,7 +96,6 @@ In the longer term, I am more concerned about
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" target="_blank"><img src="https://img.shields.io/badge/CIKM-2019-blue?style=flat-square"></a> <u>Siteng Huang</u>, Donglin Wang, Xuehan Wu, Ao Tang, &quot;**DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting**&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management*. [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.0.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social"></a> <a href="https://github.com/bighuang624/DSANet" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/DSANet?style=social"></a>
 
-
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
 ### Preprints & Under Submission
@@ -100,7 +104,12 @@ In the longer term, I am more concerned about
 
 ## Professional Experience
 
-* March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China.
+<h2 id='experience'>Experience</h2>
+
+**Research Intern** | DAMO Academy, Alibaba Group
+* Time: March 2022 - Present
+
+<!-- * March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
 
 <!-- <div style="float:left;">Research Intern</div><div style="float:right;">Mar. 2022 - Present</div>
 <div style="float:left;"><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Hangzhou, China</div> -->
@@ -109,7 +118,7 @@ In the longer term, I am more concerned about
 <div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
 </div> -->
 
-## Professional Services
+<h2 id='services'>Services</h2>
 
 ### Journal Reviewer
 
@@ -119,19 +128,11 @@ In the longer term, I am more concerned about
 
 * [ICCV 2023](https://iccv2023.thecvf.com/)
 
-## Misc
+<h2 id='misc'>Misc</h2>
 
 Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/).
 
-
-<!-- Professional Services
-======
-
-I am open to peer review and organizing chances in the field of meta learning, xx, and xx.
-
-Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
-
-<div align="middle">
+<!-- <div align="middle">
   <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
   <a href="http://www.zju.edu.cn/" target="_blank"><img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" /></a>
-</div>
+</div> -->

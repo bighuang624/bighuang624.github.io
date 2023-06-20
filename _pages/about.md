@@ -12,9 +12,7 @@ redirect_from:
 Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 <!-- <span style="color:red;">I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:siteng.huang@gmail.com) if you are interested!</span> -->
-<span style="color:red;">I am <br>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</br>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
-
-## Research Interests
+<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
 
 <h2 id='research-interests'>Research Interests</h2>
 
@@ -57,12 +55,12 @@ I am always looking for related colaboration. If you are interested to chat with
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
-**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
-{: .notice--info}
+<!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
+{: .notice--info} -->
 
 <h2 id='publications'>Publications</h2>
 
-### Peer-reviewed Conference
+**Peer-reviewed Conference**
 
 <!-- <a href="https://arxiv.org/abs/2303.15230"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat"></a> **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)]
 
@@ -98,16 +96,16 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
-### Preprints & Under Submission
+**Preprints & Under Submission**
 
 <a href="https://arxiv.org/abs/2303.15230" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
-## Professional Experience
+<!-- ## Professional Experience -->
 
 <h2 id='experience'>Experience</h2>
 
 **Research Intern** | DAMO Academy, Alibaba Group
-* Time: March 2022 - Present
+Time: March 2022 - Present
 
 <!-- * March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
 
@@ -120,11 +118,11 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='services'>Services</h2>
 
-### Journal Reviewer
+**Journal Reviewer**
 
 * [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
-### Program Committee and/or Reviewer for Conferences and Workshops
+**Program Committee and/or Reviewer for Conferences and Workshops**
 
 * [ICCV 2023](https://iccv2023.thecvf.com/)
 

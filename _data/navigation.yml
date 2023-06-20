@@ -1,13 +1,25 @@
 # main links links
 main:
+  - title: "About Me"
+    url: \#
+
+  - title: "News"
+    url: \#news
+
   - title: "Publications"
     url: \#publications
+
+  - title: "Experience"
+    url: \#experience
+
+  - title: "Services"
+    url: \#services
 
   - title: "Projects"
     url: /publications/
 
-  # - title: "News"
-  #   url: /news/  
+  - title: "Misc"
+    url: \#misc
 
   # - title: "Talks"
   #   url: /talks/    

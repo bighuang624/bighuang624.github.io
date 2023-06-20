@@ -60,7 +60,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='publications'>Publications</h2>
 
-**Peer-reviewed Conference**
+### Peer-reviewed Conference
 
 <!-- <a href="https://arxiv.org/abs/2303.15230"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat"></a> **Siteng Huang**, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023* (**CVPR 2023**). [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)]
 
@@ -96,7 +96,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
-**Preprints & Under Submission**
+### Preprints & Under Submission
 
 <a href="https://arxiv.org/abs/2303.15230" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
@@ -104,8 +104,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
-**Research Intern** | DAMO Academy, Alibaba Group
-Time: March 2022 - Present
+**Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present
 
 <!-- * March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
 
@@ -118,11 +117,11 @@ Time: March 2022 - Present
 
 <h2 id='services'>Services</h2>
 
-**Journal Reviewer**
+### Journal Reviewer
 
 * [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
-**Program Committee and/or Reviewer for Conferences and Workshops**
+### Program Committee and/or Reviewer for Conferences and Workshops
 
 * [ICCV 2023](https://iccv2023.thecvf.com/)
 

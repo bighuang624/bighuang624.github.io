@@ -20,9 +20,9 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang 
 
 Currently, my research has centered on
 
-* **Transfer Learning**: parameter-efficient fine-tuning (PEFT / PETL), meta-learning
-* **Multi-modal Learning**: text-to-image generation (T2I / AIGC), vision-language pre-trained models (VLM), text-video retrieval (TVR)
-* **Computer Vision**: few-shot learning (FSL), compositional zero-shot learning (CZSL)
+* **AIGC**: text-to-image generation (T2I), customized generation, controllable generation
+* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
+* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
@@ -42,7 +42,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
-* **[April 2, 2023]** One paper got accepted for ICMR 2023. Congratulations to all collaborators!
+* **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
 * **[July 4, 2022]** One paper got accepted for ECCV 2022.
 * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
@@ -104,7 +104,10 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
-**Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present
+* **DAMO Academy, Alibaba Group** - Research Intern
+  * Time: March 2022 - Present
+
+<!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 
 <!-- * March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
 

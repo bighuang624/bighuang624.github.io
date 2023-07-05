@@ -11,7 +11,6 @@ redirect_from:
 <!-- Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019. -->
 Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-<!-- <span style="color:red;">I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:siteng.huang@gmail.com) if you are interested!</span> -->
 <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
 
 <h2 id='research-interests'>Research Interests</h2>
@@ -20,7 +19,7 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang 
 
 Currently, my research has centered on
 
-* **AIGC**: text-to-image generation (T2I), customized generation, controllable generation
+* **AIGC**: text-to-image generation (T2I), customized & controllable generation
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
 
@@ -104,8 +103,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
-* **DAMO Academy, Alibaba Group** - Research Intern
-  * Time: March 2022 - Present
+* Research Intern - DAMO Academy, Alibaba Group
+  * Time: March 2022 - Present.
+  * Fundamental Visual Intelligence Team, supervised by Dr. Deli Zhao and Biao Gong.
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 
@@ -120,13 +120,25 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='services'>Services</h2>
 
-### Journal Reviewer
+<!-- ### Journal Reviewer
 
 * [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
 ### Program Committee and/or Reviewer for Conferences and Workshops
 
-* [ICCV 2023](https://iccv2023.thecvf.com/)
+* [ICCV 2023](https://iccv2023.thecvf.com/) -->
+
+### Conference and Journal Reviewer
+
+* IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
+* AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/)
+* International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
+* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+
+### Program Committee for Conferences and Workshops
+
+* Session Chair, The First Westlake Robot Learning Symposium
 
 <h2 id='misc'>Misc</h2>
 

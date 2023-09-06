@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019. -->
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
 
@@ -41,13 +41,12 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
-* **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked [26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20) of the CIKM conference according to the citations within five years, and 8th among papers published in the same year.
+* **[Semptember 6, 2023]** A new [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding was released. 
+* **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** of the CIKM conference according to the citations within five years, and **8th** among papers published in the same year.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
 * **[July 4, 2022]** One paper got accepted for ECCV 2022.
 * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
-* **[March 4, 2021]** One paper got accepted for CVPR 2021.
-<!-- * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators! -->
 
 <!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
 <!-- {: .notice--info} -->
@@ -59,6 +58,8 @@ I am always looking for related colaboration. If you are interested to chat with
 {: .notice--info} -->
 
 <h2 id='publications'>Publications</h2>
+
+†: Equal contribution
 
 ### Peer-reviewed Conference
 
@@ -98,6 +99,8 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2309.01141" target="_blank"><img src="https://img.shields.io/badge/arXiv-2309.01141-B31B1B?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. *arXiv preprint arXiv:2309.01141*. [[pdf](https://arxiv.org/pdf/2309.01141.pdf)]
+
 <a href="https://arxiv.org/abs/2303.15230" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
 <!-- ## Professional Experience -->
@@ -106,7 +109,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * Research Intern - **DAMO Academy, Alibaba Group**
   * Time: March 2022 - Present.
-  * Fundamental Visual Intelligence Team, supervised by Dr. Deli Zhao and Biao Gong.
+  * Fundamental Visual Intelligence Team.
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 

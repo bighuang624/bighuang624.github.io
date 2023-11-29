@@ -20,7 +20,7 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student at [Zhejiang 
 Currently, my research has centered on
 
 * **AIGC**: text-to-image generation (T2I), customized & controllable generation
-* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
+* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), multimodal large language models (MLLM), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
@@ -41,6 +41,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
+* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) on action-customized text-to-image generation was released. 
 * **[Semptember 6, 2023]** A new [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding was released. 
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** of the CIKM conference according to the citations within five years, and **8th** among papers published in the same year.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
@@ -99,6 +100,10 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2311.15841" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15841-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15841*. [[pdf](https://arxiv.org/pdf/2311.15841.pdf)]
+
+<a href="https://arxiv.org/abs/2311.15773" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15773-B31B1B?style=flat-square"></a> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15773*. [[pdf](https://arxiv.org/pdf/2311.15773.pdf)]
+
 <a href="https://arxiv.org/abs/2309.01141" target="_blank"><img src="https://img.shields.io/badge/arXiv-2309.01141-B31B1B?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. *arXiv preprint arXiv:2309.01141*. [[pdf](https://arxiv.org/pdf/2309.01141.pdf)]
 
 <a href="https://arxiv.org/abs/2303.15230" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
@@ -107,7 +112,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
-* Research Intern - **DAMO Academy, Alibaba Group**
+* Research Intern - **DAMO Academy/Tongyi Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
   * Time: March 2022 - Present.
   * Fundamental Visual Intelligence Team.
 
@@ -132,13 +137,16 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * [ICCV 2023](https://iccv2023.thecvf.com/) -->
 
-### Conference and Journal Reviewer
+### Journal and Conference Reviewer
 
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
+* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
 * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/)
 * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
-* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+* ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/)
 
 ### Program Committee for Conferences and Workshops
 

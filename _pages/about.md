@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019. -->
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
 
@@ -100,9 +100,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2311.15841" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15841-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15841*. [[pdf](https://arxiv.org/pdf/2311.15841.pdf)]
+<a href="https://arxiv.org/abs/2311.15841" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15841-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15841*. [[pdf](https://arxiv.org/pdf/2311.15841.pdf)] [[project page](https://adi-t2i.github.io/ADI/)]
 
-<a href="https://arxiv.org/abs/2311.15773" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15773-B31B1B?style=flat-square"></a> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15773*. [[pdf](https://arxiv.org/pdf/2311.15773.pdf)]
+<a href="https://arxiv.org/abs/2311.15773" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15773-B31B1B?style=flat-square"></a> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15773*. [[pdf](https://arxiv.org/pdf/2311.15773.pdf)] [[project page](https://adi-t2i.github.io/ADI/)]
 
 <a href="https://arxiv.org/abs/2309.01141" target="_blank"><img src="https://img.shields.io/badge/arXiv-2309.01141-B31B1B?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. *arXiv preprint arXiv:2309.01141*. [[pdf](https://arxiv.org/pdf/2309.01141.pdf)]
 
@@ -112,7 +112,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
-* Research Intern - **DAMO Academy/Tongyi Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
+* Research Intern - **DAMO Academy/TONGYI Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
   * Time: March 2022 - Present.
   * Fundamental Visual Intelligence Team.
 

@@ -47,8 +47,8 @@ Also, my interests include embodied AI. I am always looking for related colabora
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **8th** of the CIKM 2019 conference according to the citations, and **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** within five years.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
-<!-- * **[July 4, 2022]** One paper got accepted for ECCV 2022.
-* **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group.  -->
+<!-- * **[July 4, 2022]** One paper got accepted for ECCV 2022.  -->
+<!-- * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group.  -->
 
 <!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
 <!-- {: .notice--info} -->

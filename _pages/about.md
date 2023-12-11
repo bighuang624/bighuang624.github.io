@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
+<!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
 
 <h2 id='research-interests'>Research Interests</h2>
 
@@ -21,8 +21,9 @@ Currently, my research has centered on
 * **AIGC**: text-to-image generation (T2I), customized & controllable generation, diffusion models
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), multimodal large language models (MLLM), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning, transfer learning
+* **Embodied AI**
 
-Also, my interests include embodied AI. I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
+I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
 <!-- language-augmented vision -->
 
@@ -83,7 +84,7 @@ Also, my interests include embodied AI. I am always looking for related colabora
 
 <img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*.
 
-<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.html" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)] [[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf)] [[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf)] <a href="https://github.com/bighuang624/VoP" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/VoP?style=social"></a>
+<a href="https://ieeexplore.ieee.org/document/10203679" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[open access](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.html)] [[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)] [[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf)] [[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf)] <a href="https://github.com/bighuang624/VoP" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/VoP?style=social"></a>
 
 <a href="https://doi.org/10.1145/3591106.3592225" target="_blank"><img src="https://img.shields.io/badge/ICMR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Qiyao Wei, Donglin Wang, &quot;**Reference-Limited Compositional Zero-Shot Learning**&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval*. [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[video (Google Drive)](https://drive.google.com/file/d/1_wE_zbyvuGil_LrkmumotkRTLJJEUfCm/view?usp=drive_link)] [[github](https://github.com/bighuang624/RL-CZSL)] [[slide](https://kyonhuang.top/files/RLCZSL/ICMR23-RLCZSL-presentation.pdf)]
 

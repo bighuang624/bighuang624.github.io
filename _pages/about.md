@@ -21,7 +21,7 @@ Currently, my research has centered on
 * **AIGC**: text-to-image generation (T2I), customized & controllable generation, diffusion models
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), multimodal large language models (MLLM), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning, transfer learning
-* **Embodied AI**
+* **Embodied AI**: foundation models for robotics
 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
@@ -83,9 +83,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <a href="https://arxiv.org/abs/2303.15230"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat"></a> **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)] -->
 
-<img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)]
+<img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)]
 
-<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*.
+<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)]
 
 <a href="https://ieeexplore.ieee.org/document/10203679" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[open access](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.html)] [[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)] [[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf)] [[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf)] <a href="https://github.com/bighuang624/VoP" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/VoP?style=social"></a>
 
@@ -121,7 +121,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * Research Intern - **DAMO Academy/TONGYI Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
   * Time: March 2022 - Present.
-  * Fundamental Visual Intelligence Team.
+  * [Fundamental Visual Intelligence Team](https://github.com/damo-vilab/).
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 

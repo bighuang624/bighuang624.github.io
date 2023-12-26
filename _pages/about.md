@@ -61,7 +61,7 @@ I am always looking for related colaboration. If you are interested to chat with
 <!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info} -->
 
-<h2 id='publications'>Publications</h2>
+<h2 id='publications'>Publications</h2><a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
 
 †: Equal contribution
 
@@ -119,9 +119,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
-* Research Intern - **DAMO Academy/TONGYI Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
+* Research Intern - **DAMO Academy/TongYi Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
   * Time: March 2022 - Present.
-  * [Fundamental Visual Intelligence Team](https://github.com/damo-vilab/).
+  * [Fundamental Visual Intelligence Team](https://github.com/ali-vilab).
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 

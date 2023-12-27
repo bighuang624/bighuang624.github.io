@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 <!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
 
@@ -61,9 +61,9 @@ I am always looking for related colaboration. If you are interested to chat with
 <!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info} -->
 
-<h2 id='publications'>Publications</h2><a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
+<h2 id='publications'>Publications</h2>
 
-†: Equal contribution
+<a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  †: Equal contribution
 
 ### Peer-reviewed Conference
 

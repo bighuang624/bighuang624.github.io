@@ -142,10 +142,14 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * [ICCV 2023](https://iccv2023.thecvf.com/) -->
 
-### Journal and Conference Reviewer
+### Journal Reviewer
 
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
+* Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634)
+
+### Conference Reviewer
+
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)

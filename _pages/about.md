@@ -41,6 +41,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
+* **[February 27, 2024]** Awarded as Zhejiang University 2024 Outstanding Graduates!
 * **[February 27, 2024]** Three papers as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
 * **[December 13, 2023]** The [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
@@ -88,7 +89,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15773)] [[project page](https://simm-t2i.github.io/SimM/)]
 
-<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Min Zhang, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2303.15230)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
+<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Min Zhang, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2303.15230)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
 <img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)]
 

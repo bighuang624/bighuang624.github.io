@@ -41,6 +41,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
+* **[February 27, 2024]** Three papers as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
 * **[December 13, 2023]** The [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
 * **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) on action-customized text-to-image generation was released. [Project page](https://adi-t2i.github.io/ADI/) has been available.
@@ -83,6 +84,12 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <a href="https://arxiv.org/abs/2303.15230"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat"></a> **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)] -->
 
+<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15841)] [[project page](https://adi-t2i.github.io/ADI/)]
+
+<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15773)] [[project page](https://simm-t2i.github.io/SimM/)]
+
+<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Min Zhang, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2303.15230)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
+
 <img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)]
 
 <img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)]
@@ -105,13 +112,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
-### Preprints & Under Submission
+<!-- ### Preprints & Under Submission -->
 
-<a href="https://arxiv.org/abs/2311.15841" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15841-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15841*. [[pdf](https://arxiv.org/pdf/2311.15841.pdf)] [[project page](https://adi-t2i.github.io/ADI/)]
 
-<a href="https://arxiv.org/abs/2311.15773" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.15773-B31B1B?style=flat-square"></a> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. *arXiv preprint arXiv:2311.15773*. [[pdf](https://arxiv.org/pdf/2311.15773.pdf)] [[project page](https://simm-t2i.github.io/SimM/)]
-
-<a href="https://arxiv.org/abs/2303.15230" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
 <!-- ## Professional Experience -->
 

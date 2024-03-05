@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) and am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-<!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
+<!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (July 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
 
 <h2 id='research-interests'>Research Interests</h2>
 
@@ -18,7 +18,7 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at
 
 Currently, my research has centered on
 
-* **AIGC**: text-to-image generation (T2I), customized & controllable generation, diffusion models
+* **AIGC**: text-to-image / text-to-video (T2I / T2V) generation, customized & controllable generation, diffusion models
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), multimodal large language models (MLLM), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning, transfer learning
 * **Embodied AI**: foundation models for robotics

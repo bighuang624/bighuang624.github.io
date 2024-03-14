@@ -10,20 +10,20 @@ redirect_from:
 
 Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-<!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (July 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
+I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
 
 <h2 id='research-interests'>Research Interests</h2>
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, my research has centered on
+Currently, My research has centered on multi-modal large models (mainly on vision-language models), including 
 
-* **AIGC**: text-to-image / text-to-video (T2I / T2V) generation, customized & controllable generation, diffusion models
-* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), multimodal large language models (MLLM), vision-language pre-trained models (VLM), text-video retrieval (TVR)
-* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning, transfer learning
+* **Generation/AIGC**: text-to-image/video (T2I/V) generation, customized & controllable generation, diffusion models
+* **Understanding**: text-video retrieval (TVR), compositional zero-shot learning (CZSL), few-shot learning (FSL), visual grounding
+* **Adaptation**: parameter-efficient fine-tuning (PEFT/PETL), meta-learning, transfer learning
 * **Embodied AI**: foundation models for robotics
 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
+I am always looking for related collaborations, and some of them have produced top-level publications. If you are interested in communication, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
 <!-- language-augmented vision -->
 
@@ -44,11 +44,10 @@ I am always looking for related colaboration. If you are interested to chat with
 * **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024.
 * **[February 27, 2024]** Awarded as Zhejiang University 2024 Outstanding Graduates!
 * **[February 27, 2024]** Three papers as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
-* **[December 13, 2023]** The [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
+* **[December 13, 2023]** One [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
 * **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) on action-customized text-to-image generation was released. [Project page](https://adi-t2i.github.io/ADI/) has been available.
 * **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) about a training-free layout calibration system for text-to-image generation was released. [Project page](https://simm-t2i.github.io/SimM/) has been available.
-* **[Semptember 6, 2023]** A new [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding was released. 
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **8th** of the CIKM 2019 conference according to the citations, and **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** within five years.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!

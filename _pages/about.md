@@ -16,14 +16,14 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, My research has centered on **multi-modal large models** (mainly on **vision-language models**), including 
+Currently, My research has centered on **multi-modal large models** (mainly on **vision-language models (VLMs)**), including 
 
-* **Generation/AIGC**: text-to-image/video (T2I/V) generation, customized & controllable generation, diffusion models
+* **Generation/AIGC**: text-to-image/video (T2I/V) generation, customized & controllable generation, diffusion models, multi-modal large language models (MLLMs)
 * **Understanding**: text-video retrieval (TVR), compositional zero-shot learning (CZSL), few-shot learning (FSL), visual grounding
 * **Adaptation**: parameter-efficient fine-tuning (PEFT/PETL), meta-learning, transfer learning
 * **Embodied AI**: foundation models for robotics
 
-I am always looking for related collaborations, and some of them have produced top-level publications. If you are interested in communication, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
+I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
 
 <!-- language-augmented vision -->
 
@@ -41,8 +41,9 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
-* **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024.
+* **[March 21, 2024]** [Troika](https://arxiv.org/abs/2303.15230) has been accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
+* **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
+* **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024 (Oral).
 * **[February 27, 2024]** Awarded as Zhejiang University 2024 Outstanding Graduates!
 * **[February 27, 2024]** Three papers as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
 * **[December 13, 2023]** One [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
@@ -70,7 +71,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Peer-reviewed Conference
 
-<img src="https://img.shields.io/badge/ICME-2024-blue?style=flat-square"> Ting Liu, Xuyang Liu, <u>Siteng Huang</u>, Honggang Chen, Quanjun Yin, Long Qin, Donglin Wang, Yue Hu, &quot;**DARA: Domain- and Relation-aware Adapters Make Parameter-efficient Tuning for Visual Grounding**&quot;. In *Proceedings of the IEEE Conference on Multimedia Expo 2024*.
+<img src="https://img.shields.io/badge/ICME-2024-blue?style=flat-square"> Ting Liu, Xuyang Liu, <u>Siteng Huang</u>, Honggang Chen, Quanjun Yin, Long Qin, Donglin Wang, Yue Hu, &quot;**DARA: Domain- and Relation-aware Adapters Make Parameter-efficient Tuning for Visual Grounding**&quot;. In *Proceedings of the IEEE Conference on Multimedia Expo 2024*. <!-- oral -->
 
 <img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15841)] [[project page](https://adi-t2i.github.io/ADI/)]
 
@@ -78,9 +79,9 @@ I am always looking for related collaborations, and some of them have produced t
 
 <img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Min Zhang, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2303.15230)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
-<a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)]
+<a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] [[poster](https://kyonhuang.top/files/VGDiffZero/ICASSP2024-VGDiffZero-Poster.pdf)]
 
-<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)]
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"></a> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)]
 
 <a href="https://ieeexplore.ieee.org/document/10203679" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[open access](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.html)] [[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)] [[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf)] [[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.4.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social"></a> <a href="https://github.com/bighuang624/VoP" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/VoP?style=social"></a>
 
@@ -102,7 +103,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, <u>Siteng Huang</u>, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
+<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, <u>Siteng Huang</u>, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)] [[video (Youtube)](https://www.youtube.com/watch?v=i0sTdi_yVbc)]
 
 <!-- ## Professional Experience -->
 

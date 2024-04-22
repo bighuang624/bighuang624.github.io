@@ -10,22 +10,24 @@ redirect_from:
 
 Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
+Expected to obtain the Ph.D. degree in July, 2024.
+
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
 <h2 id='research-interests'>Research Interests</h2>
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, My research has centered on **multi-modal large models** (mainly on **vision-language models (VLMs)**), including 
+Currently, My research has centered on **multi-modal large models**, especially **vision-language models (VLMs)**, including 
 
 <!-- * **Generation/AIGC**: text-to-image/video (T2I/V) generation, customized & controllable generation, diffusion models, multi-modal large language models (MLLMs)
 * **Understanding**: text-video retrieval (TVR), compositional zero-shot learning (CZSL), few-shot learning (FSL), visual grounding
 * **Adaptation**: parameter-efficient fine-tuning (PEFT/PETL), meta-learning, transfer learning
 * **Embodied AI**: foundation models for robotics -->
 
-* **Generation/AIGC**: text-to-image/video (T2I/V) generation, customized & controllable generation, diffusion models, multi-modal large language models (MLLMs)<sup><a href="https://arxiv.org/abs/2403.14520" target="_blank">Cobra</a></sup>
-* **Understanding**: text-video retrieval (TVR), compositional zero-shot learning (CZSL), few-shot learning (FSL), visual grounding
-* **Adaptation**: parameter-efficient fine-tuning (PEFT/PETL), meta-learning, transfer learning
+* **Generation/AIGC**: text-to-image/video (T2I/V) generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, customized & controllable generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, diffusion models<sup><a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a></sup>, multi-modal large language models (MLLMs)<sup><a href="https://arxiv.org/abs/2403.14520" target="_blank">Cobra</a></sup>
+* **Understanding**: text-video retrieval (TVR)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a></sup>, compositional zero-shot learning (CZSL)<sup><a href="https://arxiv.org/abs/2303.15230" target="_blank">Troika</a></sup>, few-shot learning (FSL)<sup><a href="https://arxiv.org/abs/2009.04724" target="_blank">AGAM</a></sup>, visual grounding<sup><a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a></sup>
+* **Adaptation**: parameter-efficient fine-tuning (PEFT/PETL)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a>,DARA</sup>, meta-learning<sup><a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank">MRN</a></sup>, transfer learning<sup><a href="https://arxiv.org/abs/2312.09553" target="_blank">PDA</a></sup>
 * **Embodied AI**: foundation models for robotics
 
 I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!

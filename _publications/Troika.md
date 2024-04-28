@@ -3,12 +3,14 @@ title: "Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Lear
 collection: publications
 permalink: /publication/Troika
 excerpt: '<div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-paradigm-comparison.png" /></div> With a particular focus on the universality of the solution, in this work, we propose a novel **Multi-Path paradigm** for VLM-based CZSL models that establishes three identification branches to jointly model the state, object, and composition. The presented **Troika** is an outstanding implementation that aligns the branch-specific prompt representations with decomposed visual features. To calibrate the bias between semantically similar multi-modal representations, we further devise a **Cross-Modal Traction module** into Troika that shifts the prompt representation towards the current visual content. Experiments show that on the closed-world setting, Troika exceeds the current state-of-the-art methods by up to **+7.4%** HM and **+5.7%** AUC. And on the more challenging open-world setting, Troika still surpasses the best CLIP-based method by up to **+3.8%** HM and **+2.7%** AUC.'
-date: 2023-03-28
-venue: 'arXiv preprint arXiv:2303.15230'
+date: 2024-02-27
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024)'
 ---
 
 [arXiv](https://arxiv.org/abs/2303.15230){: .btn .btn--info}
 [github](https://github.com/bighuang624/Troika){: .btn .btn--info}
+[poster (CVPR 2024)](https://kyonhuang.top/files/Troika/CVPR24-Troika-poster.pdf){: .btn .btn--info}
+[poster (VALSE 2024)](https://kyonhuang.top/files/Troika/VALSE2024-Troika-Poster.pdf){: .btn .btn--info}
 
 ## Background
 
@@ -27,6 +29,8 @@ Recent compositional zero-shot learning (CZSL) methods adapt pre-trained vision-
 <div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://kyonhuang.top/files/Troika/Troika-paradigm-comparison.png" /></div>
 
 Crucially, our proposed Multi-Path paradigm requires a recognition branch for each of the three semantic components, *i.e.*, state, object, and composition. These branches are essentially cross-modal alignments that independently unearth specific knowledge from large-scale vision-language pre-training. Specifically, during training, three branches can collectively optimize the parameters in a multi-task learning manner. And for inference, the prediction results of state and object can be incorporated to assist the composition branch, thereby mitigating the excessive bias towards seen compositions. Without further implementation constraints, the flexibility of the \MP paradigm allows for the derivation of new methods, which can freely exploit various multi-modal features extracted by the powerful VLMs.
+
+![](https://kyonhuang.top/files/Troika/baselines-with-MP.png)
 
 ## Troika: Our Implementation
 

@@ -43,6 +43,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the faculty for the approval!
 * **[March 29, 2024]** [Troika](https://arxiv.org/abs/2303.15230) got accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
 * **[March 21, 2024]** [Cobra](https://arxiv.org/abs/2403.14520), an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 * **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024 (Oral).
@@ -105,7 +106,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, <u>Siteng Huang</u>, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro (Zhihu)](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[video (Youtube)](https://www.youtube.com/watch?v=i0sTdi_yVbc)] [[机器之心](https://mp.weixin.qq.com/s/KuuNTL_jBRsyhub5_6aXpQ)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
+<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, <u>Siteng Huang</u>, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro (Zhihu)](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[video (Youtube)](https://www.youtube.com/watch?v=i0sTdi_yVbc)] [[机器之心](https://mp.weixin.qq.com/s/KuuNTL_jBRsyhub5_6aXpQ)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)] <a href="https://github.com/h-zhao1997/cobra" target="_blank"><img src="https://img.shields.io/github/stars/h-zhao1997/cobra?style=social"></a>
 
 <!-- ## Professional Experience -->
 

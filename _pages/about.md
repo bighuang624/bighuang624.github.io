@@ -23,7 +23,7 @@ Currently, My research has centered on **multi-modal large models**, especially 
 * **Generation/AIGC**: text-to-image/video (T2I/V) generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, customized & controllable generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, test-time diffusion intervention<sup><a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a>,<a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a></sup>, multi-modal large language models (MLLMs)<sup><a href="https://arxiv.org/abs/2403.14520" target="_blank">Cobra</a></sup>
 * **Understanding**: text-video retrieval (TVR)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a></sup>, compositional zero-shot learning (CZSL)<sup><a href="https://arxiv.org/abs/2303.15230" target="_blank">Troika</a></sup>, few-shot learning (FSL)<sup><a href="https://arxiv.org/abs/2009.04724" target="_blank">AGAM</a>,<a href="https://arxiv.org/abs/2207.06989" target="_blank">HTS</a></sup>, visual grounding<sup><a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a>,DARA</sup>
 * **Transfer**: parameter-efficient fine-tuning (PEFT/PETL)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a>,DARA</sup>, meta-learning<sup><a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank">MRN</a></sup>, domain adaptation<sup><a href="https://arxiv.org/abs/2312.09553" target="_blank">PDA</a></sup>
-* **Embodied AI**: foundation models for robotics
+* **Embodied AI**: foundation models for robotics<sup>QUAR-VLA</sup>
 
 I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
 
@@ -43,7 +43,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the faculty for the approval!
+* **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the committee for the approval!
 * **[March 29, 2024]** [Troika](https://arxiv.org/abs/2303.15230) got accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
 * **[March 21, 2024]** [Cobra](https://arxiv.org/abs/2403.14520), an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 * **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024 (Oral).
@@ -74,7 +74,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 ### Peer-reviewed Conference
 
-<img src="https://img.shields.io/badge/ICME-2024-blue?style=flat-square"> Ting Liu†, Xuyang Liu†, <u>Siteng Huang</u>, Honggang Chen, Quanjun Yin, Long Qin, Donglin Wang, Yue Hu, &quot;**DARA: Domain- and Relation-aware Adapters Make Parameter-efficient Tuning for Visual Grounding**&quot;. In *Proceedings of the IEEE Conference on Multimedia Expo 2024*. <!-- oral -->
+<img src="https://img.shields.io/badge/ICME-2024-blue?style=flat-square"> Ting Liu†, Xuyang Liu†, <u>Siteng Huang</u>, Honggang Chen, Quanjun Yin, Long Qin, Donglin Wang, Yue Hu, &quot;**DARA: Domain- and Relation-aware Adapters Make Parameter-efficient Tuning for Visual Grounding**&quot;. In *Proceedings of the IEEE Conference on Multimedia Expo 2024*. <!-- oral --> [[arXiv](https://arxiv.org/abs/2405.06217)] [[github](https://github.com/liuting20/DARA)]
 
 <img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15841)] [[project page](https://adi-t2i.github.io/ADI/)] [[poster (CVPR 2024)](https://kyonhuang.top/files/ADI/CVPR24-ADI-poster.pdf)]
 

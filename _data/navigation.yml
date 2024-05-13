@@ -12,11 +12,11 @@ main:
   - title: "Services"
     url: \#services
 
-  - title: "Projects"
-    url: /publications/
-
   - title: "Misc"
     url: \#misc
+
+  - title: "Projects"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -30,6 +30,6 @@ main:
   # - title: "CV (Chinese)"
   #   url: /files/SitengHuang-CV-cn.pdf
 
-  # - title: "CV (English)"
-  #   url: /files/SitengHuang-CV-en.pdf
+  - title: "CV (English)"
+    url: /files/SitengHuang_CV_en.pdf
     

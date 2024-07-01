@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree (June, 2024) from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China), affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree (June, 2019) from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China).
+Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China) in June 2024, affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China) in June 2019.
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
@@ -41,7 +41,6 @@ I am always looking for related collaborations, and most of them have produced t
 
 <h2 id='news'>News</h2>
 
-<div style="height:300px;width:200px;overflow:scroll;background:#EEEEEE;">
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
 * **[June 4, 2024]** I successfully defended my dissertation. So many thanks to my Ph.D. committee (Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html)) and my advisor!
@@ -60,7 +59,6 @@ I am always looking for related collaborations, and most of them have produced t
 * **[February 28, 2023]** The paper of [VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators!
 <!-- * **[July 4, 2022]** One paper got accepted for ECCV 2022.  -->
 <!-- * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group.  -->
-</div>
 
 <!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
 <!-- {: .notice--info} -->

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China) in June 2024, affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China) in June 2019.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China) in June 2024, affiliated with a joint-supervision program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China) in June 2019.
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
@@ -18,10 +18,10 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree from [Z
 
 Currently, My research has centered on **multi-modal large models**, especially **vision-language models (VLMs)**, including 
 
-* **Generation/AIGC**: text-to-image/video (T2I/V) generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, customized & controllable generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, test-time diffusion intervention<sup><a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a>,<a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a></sup>, multi-modal large language models (MLLMs)<sup><a href="https://arxiv.org/abs/2403.14520" target="_blank">Cobra</a></sup>
+* **Generation/AIGC**: text-to-image/video (T2I/V) generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, customized & controllable generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, test-time diffusion intervention<sup><a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a>,<a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a></sup>, multi-modal large language models (MLLMs)<sup><a href="https://arxiv.org/abs/2403.14520" target="_blank">Cobra</a>, PiTe</sup>
 * **Understanding**: text-video retrieval (TVR)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a></sup>, compositional zero-shot learning (CZSL)<sup><a href="https://arxiv.org/abs/2303.15230" target="_blank">Troika</a></sup>, few-shot learning (FSL)<sup><a href="https://arxiv.org/abs/2009.04724" target="_blank">AGAM</a>,<a href="https://arxiv.org/abs/2207.06989" target="_blank">HTS</a></sup>, visual grounding<sup><a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a>,<a href="https://arxiv.org/abs/2405.06217" target="_blank">DARA</a></sup>
 * **Transfer**: parameter-efficient fine-tuning (PEFT/PETL)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a>,<a href="https://arxiv.org/abs/2405.06217" target="_blank">DARA</a>,<a href="https://arxiv.org/abs/2405.14700" target="_blank">Sparse-Tuning</a></sup>, meta-learning<sup><a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank">MRN</a></sup>, domain adaptation<sup><a href="https://arxiv.org/abs/2312.09553" target="_blank">PDA</a></sup>
-* **Embodied AI**: vision-language-action models (VLAs)<sup>QUAR-VLA</sup>, foundation models for robotics
+* **Embodied AI**: vision-language-action models (VLAs)<sup><a href="https://arxiv.org/abs/2312.14457" target="_blank">QUAR-VLA</a></sup>, foundation models for robotics
 
 I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
 
@@ -43,6 +43,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
+* **[July 1, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) got accepted for ECCV 2024.
 * **[June 4, 2024]** I successfully defended my dissertation. So many thanks to my Ph.D. committee (Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html)) and my advisor!
 * **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the committee for the approval!
 * **[March 29, 2024]** [Troika](https://arxiv.org/abs/2303.15230) got accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
@@ -74,6 +75,10 @@ I am always looking for related collaborations, and most of them have produced t
 <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  †: Equal contribution
 
 ### Peer-reviewed Conference
+
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu, Pengxiang Ding, <u>Siteng Huang</u>, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*.
+
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Pengxiang Ding, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, <u>Siteng Huang</u>, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*.
 
 <img src="https://img.shields.io/badge/ICME-2024-blue?style=flat-square"> Ting Liu†, Xuyang Liu†, <u>Siteng Huang</u>, Honggang Chen, Quanjun Yin, Long Qin, Donglin Wang, Yue Hu, &quot;**DARA: Domain- and Relation-aware Adapters Make Parameter-efficient Tuning for Visual Grounding**&quot;. In *Proceedings of the IEEE Conference on Multimedia Expo 2024*. <!-- oral --> [[arXiv](https://arxiv.org/abs/2405.06217)] [[github](https://github.com/liuting20/DARA)]
 

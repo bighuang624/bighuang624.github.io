@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a fifth-year Ph.D. candidate at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
-
-Expected to obtain the Ph.D. degree in July, 2024.
+Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree (June, 2024) from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China), affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree (June, 2019) from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China).
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
@@ -23,7 +21,7 @@ Currently, My research has centered on **multi-modal large models**, especially 
 * **Generation/AIGC**: text-to-image/video (T2I/V) generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, customized & controllable generation<sup><a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>,<a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a></sup>, test-time diffusion intervention<sup><a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a>,<a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a></sup>, multi-modal large language models (MLLMs)<sup><a href="https://arxiv.org/abs/2403.14520" target="_blank">Cobra</a></sup>
 * **Understanding**: text-video retrieval (TVR)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a></sup>, compositional zero-shot learning (CZSL)<sup><a href="https://arxiv.org/abs/2303.15230" target="_blank">Troika</a></sup>, few-shot learning (FSL)<sup><a href="https://arxiv.org/abs/2009.04724" target="_blank">AGAM</a>,<a href="https://arxiv.org/abs/2207.06989" target="_blank">HTS</a></sup>, visual grounding<sup><a href="https://arxiv.org/abs/2309.01141" target="_blank">VGDiffZero</a>,<a href="https://arxiv.org/abs/2405.06217" target="_blank">DARA</a></sup>
 * **Transfer**: parameter-efficient fine-tuning (PEFT/PETL)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a>,<a href="https://arxiv.org/abs/2405.06217" target="_blank">DARA</a>,<a href="https://arxiv.org/abs/2405.14700" target="_blank">Sparse-Tuning</a></sup>, meta-learning<sup><a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank">MRN</a></sup>, domain adaptation<sup><a href="https://arxiv.org/abs/2312.09553" target="_blank">PDA</a></sup>
-* **Embodied AI**: foundation models for robotics<sup>QUAR-VLA</sup>
+* **Embodied AI**: vision-language-action models (VLAs)<sup>QUAR-VLA</sup>, foundation models for robotics
 
 I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
 
@@ -43,7 +41,10 @@ I am always looking for related collaborations, and most of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[June 4, 2024]** I successfully defended my dissertation. So many thanks to my Ph.D. committee (Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html))!
+<div style="height:300px;width:200px;overflow:scroll;background:#EEEEEE;">
+<!-- 参考 https://huanwang.tech/ 的样式 -->
+
+* **[June 4, 2024]** I successfully defended my dissertation. So many thanks to my Ph.D. committee (Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html)) and my advisor!
 * **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the committee for the approval!
 * **[March 29, 2024]** [Troika](https://arxiv.org/abs/2303.15230) got accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
 * **[March 21, 2024]** [Cobra](https://arxiv.org/abs/2403.14520), an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
@@ -59,6 +60,7 @@ I am always looking for related collaborations, and most of them have produced t
 * **[February 28, 2023]** The paper of [VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators!
 <!-- * **[July 4, 2022]** One paper got accepted for ECCV 2022.  -->
 <!-- * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group.  -->
+</div>
 
 <!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
 <!-- {: .notice--info} -->
@@ -116,7 +118,7 @@ I am always looking for related collaborations, and most of them have produced t
 <h2 id='experience'>Experience</h2>
 
 * Research Intern - **DAMO Academy/TongYi Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
-  * Time: March 2022 - Present.
+  * Time: March 2022 - July 2024.
   * [Fundamental Visual Intelligence Team](https://github.com/ali-vilab).
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
@@ -140,12 +142,6 @@ I am always looking for related collaborations, and most of them have produced t
 
 * [ICCV 2023](https://iccv2023.thecvf.com/) -->
 
-### Journal Reviewer
-
-* IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-* ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
-* Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634)
-
 ### Conference Reviewer
 
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
@@ -157,6 +153,12 @@ I am always looking for related collaborations, and most of them have produced t
 * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/)
 * Asian Conference on Computer Vision [(ACCV)](https://link.springer.com/conference/accv)
 * International Conference on Pattern Recognition [(ICPR)](https://ieeexplore.ieee.org/xpl/conhome/1000545/all-proceedings)
+
+### Journal Reviewer
+
+* IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
+* Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634)
 
 ### Program Committee for Conferences and Workshops
 

@@ -82,7 +82,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 <img src="https://img.shields.io/badge/ICME-2024-blue?style=flat-square"> Ting Liu†, Xuyang Liu†, <u>Siteng Huang</u>, Honggang Chen, Quanjun Yin, Long Qin, Donglin Wang, Yue Hu, &quot;**DARA: Domain- and Relation-aware Adapters Make Parameter-efficient Tuning for Visual Grounding**&quot;. In *Proceedings of the IEEE Conference on Multimedia Expo 2024*. <!-- oral --> [[arXiv](https://arxiv.org/abs/2405.06217)] [[github](https://github.com/liuting20/DARA)]
 
-<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15841)] [[project page](https://adi-t2i.github.io/ADI/)] [[poster (CVPR 2024)](https://kyonhuang.top/files/ADI/CVPR24-ADI-poster.pdf)]
+<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Xi Chen, Yuqian Fu, Yu Liu, Donglin Wang, &quot;**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15841)] [[dataset](https://github.com/bighuang624/ActionBench)] [[project page](https://adi-t2i.github.io/ADI/)] [[poster (CVPR 2024)](https://kyonhuang.top/files/ADI/CVPR24-ADI-poster.pdf)]
 
 <img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> Biao Gong†, <u>Siteng Huang</u>†, Yutong Feng, Shiwei Zhang, Yuyuan Li, Yu Liu, &quot;**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2311.15773)] [[project page](https://simm-t2i.github.io/SimM/)] [[poster (CVPR 2024)](https://kyonhuang.top/files/SimM/CVPR24-SimM-poster.pdf)]
 
@@ -171,7 +171,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 <h2 id='misc'>Misc</h2>
 
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) and [Chinese blog](https://kyonhuang.top/blog/).
+Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67), [XiaoHongShu](https://kyonhuang.top/files/xiaohongshu.jpg) and [Chinese blog](https://kyonhuang.top/blog/).
 
 <!-- <div align="middle">
   <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>

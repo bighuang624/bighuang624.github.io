@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siteng Huang"
 title_separator          : "-"
 name                     : &name "Siteng Huang"
-description              : &description "Ph.D. Student"
+description              : &description "CS Ph.D."
 url                      : https://kyonhuang.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bighuang624/bighuang624.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siteng Huang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student @ Zhejiang University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
+  bio              : "CS Ph.D.@ Zhejiang University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

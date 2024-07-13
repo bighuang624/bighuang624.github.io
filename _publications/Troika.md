@@ -78,10 +78,11 @@ We also show some failure cases, where the entanglement of visual features place
 If you find this work useful in your research, please cite our paper:
 
 <pre>
-@article{Huang2023Troika,
+@inproceedings{Huang2024Troika,
     title={Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning},
     author={Siteng Huang and Biao Gong and Yutong Feng and Yiliang Lv and Donglin Wang},
-    journal={arXiv preprint arXiv:2303.15230},
-    year={2023}
+    booktitle = {Proceedings of the {IEEE/CVF} Conference on Computer Vision and Pattern Recognition 2024},
+    month = {June},
+    year = {2024}
 }
 </pre>

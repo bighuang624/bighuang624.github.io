@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siteng Huang 黄思腾"
+title: ""
 excerpt: "Siteng Huang 黄思腾"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China) in June 2024, affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China) in June 2019.
+Hi!👋 I am Siteng Huang (黄思腾 in Chinese). I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) (Hangzhou, China) in June 2024, affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China) at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) (Wuhan, China) in June 2019.
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
-<h2 id='research-interests'>Research Interests</h2>
+<h2 id='research-interests'>🔬Research Interests</h2>
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
@@ -23,7 +23,7 @@ Currently, My research has centered on **multi-modal large models**, especially 
 * **Transfer**: parameter-efficient fine-tuning (PEFT/PETL)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a>,<a href="https://arxiv.org/abs/2405.06217" target="_blank">DARA</a>,<a href="https://arxiv.org/abs/2405.14700" target="_blank">Sparse-Tuning</a></sup>, meta-learning<sup><a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank">MRN</a></sup>, domain adaptation<sup><a href="https://arxiv.org/abs/2312.09553" target="_blank">PDA</a></sup>
 * **Embodied AI**: vision-language-action models (VLAs)<sup><a href="https://arxiv.org/abs/2312.14457" target="_blank">QUAR-VLA</a></sup>, foundation models for robotics
 
-I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
+🤝I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
 
 <!-- language-augmented vision -->
 
@@ -39,11 +39,13 @@ I am always looking for related collaborations, and most of them have produced t
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.  -->
 
-<h2 id='news'>News</h2>
+<h2 id='news'>📢News</h2>
 
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
-* **[July 16, 2024]** One paper got accepted for ACM MM 2024.
+* <span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">2024/07/16</span> **[MM'24]** One paper got accepted for ACM MM 2024.
+
+<!-- * **[July 16, 2024]** One paper got accepted for ACM MM 2024. -->
 * **[July 9, 2024]** [2024 Scholar Metrics](https://scholar.googleblog.com/2024/07/2024-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **7th** of the CIKM 2019 conference according to the citations, and **[13th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2024&vq=eng_databasesinformationsystems&cstart=0)** within five years.
 * **[July 1, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) got accepted for ECCV 2024.
 * **[June 4, 2024]** I successfully defended my dissertation. So many thanks to my Ph.D. committee (Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html)) and my advisor!
@@ -72,7 +74,7 @@ I am always looking for related collaborations, and most of them have produced t
 <!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info} -->
 
-<h2 id='publications'>Publications</h2>
+<h2 id='publications'>📝Publications</h2>
 
 <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  †: Equal contribution
 
@@ -122,7 +124,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 <!-- ## Professional Experience -->
 
-<h2 id='experience'>Experience</h2>
+<h2 id='experience'>🏢Experience</h2>
 
 * Research Intern - **DAMO Academy/TongYi Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
   * Time: March 2022 - July 2024.
@@ -139,7 +141,7 @@ I am always looking for related collaborations, and most of them have produced t
 <div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
 </div> -->
 
-<h2 id='services'>Services</h2>
+<h2 id='services'>📚︎Services</h2>
 
 <!-- ### Journal Reviewer
 
@@ -171,7 +173,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 * Session Chair, The First Westlake Robot Learning Symposium
 
-<h2 id='misc'>Misc</h2>
+<h2 id='misc'>😉Misc</h2>
 
 Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67), [XiaoHongShu](https://kyonhuang.top/files/xiaohongshu.jpg) and [Chinese blog](https://kyonhuang.top/blog/).
 

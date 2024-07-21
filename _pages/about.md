@@ -14,7 +14,7 @@ My email: **siteng** [dot] **huang** [at] **gmail** [dot] **com**
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
-<h2 id='research-interests'>🔬Research Interests</h2>
+<h2 id='research-interests'>🔬 Research Interests</h2>
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
@@ -41,9 +41,11 @@ Currently, My research has centered on **multi-modal large models**, especially 
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms.  -->
 
-<h2 id='news'>📢News</h2>
+<h2 id='news'>📢 News</h2>
 
 <!-- 参考 https://huanwang.tech/ 的样式 -->
+
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/07/16</span>
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024/07/16</span> **[MM'24]** One paper got accepted for ACM MM 2024.
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024/07/09</span> **[Scholar'24]** [2024 Scholar Metrics](https://scholar.googleblog.com/2024/07/2024-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **7th** of the CIKM 2019 conference according to the citations, and **[13th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2024&vq=eng_databasesinformationsystems&cstart=0)** within five years.
@@ -54,10 +56,10 @@ Currently, My research has centered on **multi-modal large models**, especially 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024/03/13</span> **[ICME'24]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024 (Oral).
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024/02/27</span> **[Award]** Awarded as Zhejiang University 2024 Outstanding Graduates!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024/02/27</span> **[CVPR'24]** Three papers (<a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>, <a href="https://arxiv.org/abs/2303.15230" target="_blank">Troika</a>, <a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a>) as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/12/13</span> **[ICASSP'24]** One paper of [VGDiffZero](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/12/09</span> **[AAAI'24]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.Congratulations to all collaborators!
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/04/02</span> **[ICMR'23]** The paper of [RL-CZSL](https://kyonhuang.top/publication/reference-limited-CZSL) about reference-limited compositional learning got accepted for ICMR 2023. Congratulations to all collaborators!
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/02/28</span> **[CVPR'23]** The paper of [VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/12/13</span> **[ICASSP'24]** One paper ([VGDiffZero](https://arxiv.org/abs/2309.01141)) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/12/09</span> **[AAAI'24]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/04/02</span> **[ICMR'23]** One paper ([RL-CZSL](https://kyonhuang.top/publication/reference-limited-CZSL)) about reference-limited compositional learning got accepted for ICMR 2023. Congratulations to all collaborators!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023/02/28</span> **[CVPR'23]** One paper ([VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators!
 
 
 <!-- * **[July 4, 2022]** One paper got accepted for ECCV 2022.  -->
@@ -72,7 +74,7 @@ Currently, My research has centered on **multi-modal large models**, especially 
 <!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info} -->
 
-<h2 id='publications'>📝Publications</h2>
+<h2 id='publications'>📝 Publications</h2>
 
 <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  †: Equal contribution
 
@@ -122,7 +124,7 @@ Currently, My research has centered on **multi-modal large models**, especially 
 
 <!-- ## Professional Experience -->
 
-<h2 id='experience'>🏢Experience</h2>
+<h2 id='experience'>💼 Work Experience</h2>
 
 * Research Intern - **DAMO Academy/TongYi Lab, Alibaba Group (阿里巴巴达摩院/通义实验室)**
   * Time: March 2022 - July 2024.
@@ -139,7 +141,7 @@ Currently, My research has centered on **multi-modal large models**, especially 
 <div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
 </div> -->
 
-<h2 id='services'>📚︎Services</h2>
+<h2 id='services'>📚︎ Services</h2>
 
 <!-- ### Journal Reviewer
 

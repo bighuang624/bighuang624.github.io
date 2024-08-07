@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     $(document).ready(function () {
         {% if site.google_scholar_stats_use_cdn %}
         var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
@@ -19,6 +19,25 @@
                 var paperId = element.getAttribute('data')
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '<a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=' + paperId + '" target="_blank"><img src="https://img.shields.io/badge/citations-' + numCitations +'-blue?style=social&logo=googlescholar"></a>';
+            });
+        });
+    })
+</script> -->
+<script>
+    $(document).ready(function () {
+        {% if site.google_scholar_stats_use_cdn %}
+        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        {% else %}
+        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        {% endif %}
+        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+            // var totalCitation = data['citedby']
+            // document.getElementById('total_cit').innerHTML = totalCitation;
+            var citationEles = document.getElementsByClassName('show_paper_citations')
+            Array.prototype.forEach.call(citationEles, element => {
+                var paperId = element.getAttribute('data')
+                var numCitations = data['publications'][paperId]['num_citations']
+                element.innerHTML = '| Citations: ' + numCitations;
             });
         });
     })

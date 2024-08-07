@@ -14,6 +14,12 @@
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
+            var citationBadges = document.getElementsByClassName('paper_citations_badges')
+            Array.prototype.forEach.call(citationBadges, element => {
+                var paperId = element.getAttribute('data')
+                var numCitations = data['publications'][paperId]['num_citations']
+                element.innerHTML = '<a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=' + paperId + '" target="_blank"><img src="https://img.shields.io/badge/citations-' + numCitations +'-blue?style=social&logo=googlescholar"></a>';
+            });
         });
     })
 </script>

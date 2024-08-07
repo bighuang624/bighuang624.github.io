@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siteng Huang"
-description              : "Siteng Huang, CS Ph.D. @ Zhejiang University & Westlake University, deep learning, multi-modal modals, vision-language models"
+title                    : "Siteng Huang (黄思腾)"
+description              : "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
 repository               : "bighuang624/bighuang624.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siteng Huang (黄思腾)"
   avatar           : "images/profile.png"
-  bio              : "CS Ph.D. @ Zhejiang University & Westlake University"
+  bio              : "DAMO Academy, Alibaba"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 

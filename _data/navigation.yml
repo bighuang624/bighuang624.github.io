@@ -1,35 +1,40 @@
 # main links links
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  # - title: "Research Interests"
+  #   url: "/#-research-interests"
+
   - title: "News"
-    url: \#news
+    url: "/#-news"
 
   - title: "Publications"
-    url: \#publications
+    url: "/#-publications"
 
-  - title: "Experience"
-    url: \#experience
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
+
+  # - title: "Educations"
+  #   url: "/#-educations"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/#-internships"
+
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
   - title: "Services"
-    url: \#services
+    url: "/#-services"
 
   - title: "Misc"
-    url: \#misc
+    url: "/#-misc"
 
   - title: "Projects"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-    
-  # - title: "CV (Chinese)"
-  #   url: /files/SitengHuang-CV-cn.pdf
-
   - title: "CV (English)"
     url: /files/SitengHuang_CV_en.pdf
-    

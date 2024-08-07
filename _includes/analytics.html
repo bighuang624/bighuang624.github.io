@@ -1,12 +1,13 @@
-{% if site.analytics.provider and page.analytics != false %}
+{% if page.analytics != false %}
 
-{% case site.analytics.provider %}
-{% when "google" %}
-  {% include /analytics-providers/google.html %}
-{% when "google-universal" %}
-  {% include /analytics-providers/google-universal.html %}
-{% when "custom" %}
-  {% include /analytics-providers/custom.html %}
-{% endcase %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', "{{ site.google_analytics_id }}");
+</script>
 
 {% endif %}

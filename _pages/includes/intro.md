@@ -1,6 +1,6 @@
-Hi!👋 I am Siteng Huang (黄思腾 in Chinese). I am about to join [DAMO Academy](https://damo.alibaba.com/) <a href='https://damo.alibaba.com/' target="_blank"><img src='./images/alibaba.png' align="center" style='vertical-align: middle; width: 78px;'></a> as an algorithm expert in Hangzhou.
+Hi!👋 I am Siteng Huang (黄思腾 in Chinese). I am about to join [DAMO Academy](https://damo.alibaba.com/) <a href='https://damo.alibaba.com/' target="_blank"><img src='./images/alibaba.png' align="center" style='vertical-align: middle; width: 78px;'></a> in Hangzhou.
 
-<!-- I work at DAMO Academy <img src='./images/alibaba.png' style='width: 6em;'> now in Hangzhou. -->
+<!-- I work at DAMO Academy <img src='./images/alibaba.png' style='width: 6em;'> as an algorithm expert in Hangzhou. -->
 
 Currently, My research has centered on **multi-modal large models**, especially **vision-language models (VLMs)**. I have published 20+ papers <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" align="center" alt="Google Scholar"></a> at the top international AI conferences. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank">siteng.huang@gmail.com</a>.
 <!-- My email: **siteng**[dot]**huang**[at]**gmail**[dot]**com**. -->

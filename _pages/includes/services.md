@@ -24,6 +24,7 @@
 
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
+* Journal of Visual Communication and Image Representation [(JVCI)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
 * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634)
 
 ### Program Committee for Conferences and Workshops

@@ -42,6 +42,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2408.17083" target="_blank"><img src="https://img.shields.io/badge/arXiv-2408.17083-B31B1B?style=flat-square"></a> Fengyuan Dai, <u>Siteng Huang</u>, Min Zhang, Biao Gong, Donglin Wang, &quot;**Focus-Consistent Multi-Level Aggregation for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2408.17083*. [[pdf](https://arxiv.org/pdf/2408.17083.pdf)]
+
 <a href="https://arxiv.org/abs/2407.01131" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.01131-B31B1B?style=flat-square"></a> Xuyang Liu†, Ting Liu†, <u>Siteng Huang</u>, Yue Hu, Quanjun Yin, Donglin Wang, Honggang Chen, &quot;**M<sup>2</sup>IST: Multi-Modal Interactive Side-Tuning for Memory-efficient Referring Expression Comprehension**&quot;. *arXiv preprint arXiv:2407.01131*. [[pdf](https://arxiv.org/pdf/2407.01131.pdf)]
 
 <a href="https://arxiv.org/abs/2405.14700" target="_blank"><img src="https://img.shields.io/badge/arXiv-2405.14700-B31B1B?style=flat-square"></a> Ting Liu†, Xuyang Liu†, Liangtao Shi, Zunnan Xu, <u>Siteng Huang</u>, Yi Xin, Quanjun Yin, &quot;**Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference**&quot;. *arXiv preprint arXiv:2405.14700*. [[pdf](https://arxiv.org/pdf/2405.14700.pdf)] [[github](https://github.com/liuting20/Sparse-Tuning)]

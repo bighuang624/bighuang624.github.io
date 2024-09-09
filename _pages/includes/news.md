@@ -2,6 +2,7 @@
 
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/09/09</span> **[New Start]** Joined DAMO Academy, Alibaba as an Algorithm Expert!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/07/16</span> **[MM'24]** One paper ([ProFD](https://openreview.net/forum?id=o2axlPlXYY)) got accepted for ACM MM 2024.
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/07/09</span> **[Scholar'24]** [2024 Scholar Metrics](https://scholar.googleblog.com/2024/07/2024-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **7th** of the CIKM 2019 conference according to the citations, and **[13th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2024&vq=eng_databasesinformationsystems&cstart=0)** within five years.
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/07/01</span> **[ECCV'24]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) got accepted for ECCV 2024. <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/08/12</span> PiTe got accepted as an Oral paper!

@@ -29,7 +29,7 @@ redirect_from:
 
 {% include_relative includes/pub_short.md %}
 
-{% include_relative includes/work_experience.md %}
+{% include_relative includes/experience.md %}
 
 {% include_relative includes/services.md %}
 

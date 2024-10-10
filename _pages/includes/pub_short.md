@@ -6,7 +6,7 @@
 
 <a href="https://openreview.net/forum?id=o2axlPlXYY" target="_blank"><img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the ACM Multimedia 2024*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
 
-<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <span style="color:red">(Oral)</span> Yang Liu, Pengxiang Ding, <u>Siteng Huang</u>, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](http://arxiv.org/abs/2409.07239)] [[github](https://github.com/yliu-cs/PiTe)] [[dataset](https://yliu-cs.github.io/PiTe/)]
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <span style="color:red">(Oral)</span> Yang Liu†, Pengxiang Ding†, <u>Siteng Huang</u>, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](http://arxiv.org/abs/2409.07239)] [[github](https://github.com/yliu-cs/PiTe)] [[dataset](https://yliu-cs.github.io/PiTe/)]
 
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Pengxiang Ding, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, <u>Siteng Huang</u>, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](https://arxiv.org/abs/2312.14457)]
 
@@ -30,7 +30,7 @@
 
 <a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2022-blue?style=flat-square"></a> Min Zhang, <u>Siteng Huang</u>, Donglin Wang, &quot;**Domain Generalized Few-shot Image Classification via Meta Regularization Network**&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)] [[github](https://github.com/remiMZ/MRN-ICASSP22)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:zYLM7Y9cAGgC' href="" target="_blank"></a>
 
-<a href="https://dl.acm.org/doi/10.1145/3460426.3463614" target="_blank"><img src="https://img.shields.io/badge/ICMR-2021-blue?style=flat-square"></a> Zifeng Zhuang, Xintao Xiang, <u>Siteng Huang</u>, Donglin Wang, &quot;**HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network**&quot;. In *Proceedings of the 2021 ACM International Conference on Multimedia Retrieval*. [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
+<a href="https://dl.acm.org/doi/10.1145/3460426.3463614" target="_blank"><img src="https://img.shields.io/badge/ICMR-2021-blue?style=flat-square"></a> Zifeng Zhuang, Xintao Xiang, <u>Siteng Huang</u>, Donglin Wang, &quot;**HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network**&quot;. In *Proceedings of the 2021 ACM International Conference on Multimedia Retrieval*. [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:UeHWp8X0CEIC' href="" target="_blank"></a>
 
 <a href="https://ieeexplore.ieee.org/document/9577454" target="_blank"><img src="https://img.shields.io/badge/CVPR-2021-blue?style=flat-square"></a> Zhengyu Chen, Jixie Ge, Heshen Zhan, <u>Siteng Huang</u>, Donglin Wang, &quot;**Pareto Self-Supervised Training for Few-Shot Learning**&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition*. [[arXiv](https://arxiv.org/abs/2104.07841)] [[open access](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:2osOgNQ5qMEC' href="" target="_blank"></a>
 
@@ -41,6 +41,8 @@
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
 ### Preprints & Under Submission
+
+<a href="https://arxiv.org/abs/2410.05317" target="_blank"><img src="https://img.shields.io/badge/arXiv-2410.05317-B31B1B?style=flat-square"></a> Chang Zou†, Xuyang Liu†, Ting Liu, <u>Siteng Huang</u>, Linfeng Zhang, &quot;**Accelerating Diffusion Transformers with Token-wise Feature Caching**&quot;. *arXiv preprint arXiv:2410.05317*. [[pdf](https://arxiv.org/pdf/2410.05317.pdf)] [[github](https://github.com/Shenyi-Z/ToCa)]
 
 <a href="https://arxiv.org/abs/2408.17083" target="_blank"><img src="https://img.shields.io/badge/arXiv-2408.17083-B31B1B?style=flat-square"></a> Fengyuan Dai, <u>Siteng Huang</u>, Min Zhang, Biao Gong, Donglin Wang, &quot;**Focus-Consistent Multi-Level Aggregation for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2408.17083*. [[pdf](https://arxiv.org/pdf/2408.17083.pdf)]
 

@@ -54,4 +54,7 @@
 
 ### Thesis
 
-<img src="https://img.shields.io/badge/Thesis-Ph.D.-49846a?style=flat-square"> <u>Siteng Huang</u>, &quot;**Model Transfer for Multimodal Understanding and Generation**&quot;. <!-- Thesis Committee: Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html). -->
+<img src="https://img.shields.io/badge/Thesis-Ph.D.-815989?style=flat-square"> <u>Siteng Huang</u>, &quot;**Model Transfer for Multimodal Understanding and Generation**&quot;. Zhejiang University, 2024.
+
+<!-- deep green: 004e00/49846a -->
+

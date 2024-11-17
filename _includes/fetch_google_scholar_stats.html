@@ -39,6 +39,12 @@
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
+            var allCitation = document.getElementsByClassName('all_citation_badges')
+            Array.prototype.forEach.call(allCitation, element => {
+                var numCitations = data['citedby']
+                element.href = 'https://scholar.google.com/citations?user=mhpkWSYAAAAJ'
+                element.innerHTML = '<img src="https://img.shields.io/badge/Paper%20Citations-' + numCitations +'-blue?style=social&logo=googlescholar">'
+            });
             var citationBadges = document.getElementsByClassName('paper_citations_badges')
             Array.prototype.forEach.call(citationBadges, element => {
                 var paperId = element.getAttribute('data')

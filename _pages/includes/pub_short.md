@@ -1,6 +1,7 @@
 # 📝 Publications
 
 †: Equal contribution
+✉: Corresponding author
 
 ### Peer-reviewed Conference
 
@@ -41,6 +42,8 @@
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
 ### Preprints & Under Submission
+
+<a href="https://arxiv.org/abs/2411.17686" target="_blank"><img src="https://img.shields.io/badge/arXiv-2411.17686-B31B1B?style=flat-square"></a> Yuhang Han†, Xuyang Liu†, Pengxiang Ding, Donglin Wang, Honggang Chen, Qingsen Yan, <u>Siteng Huang✉</u>, &quot;**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**&quot;. *arXiv preprint arXiv:2411.17686*. [[pdf](https://arxiv.org/pdf/2411.17686.pdf)] [[project page](https://FiCoCo-accelerate.github.io/)] [[huggingface paper](https://huggingface.co/papers/2411.17686)]
 
 <a href="https://arxiv.org/abs/2410.05317" target="_blank"><img src="https://img.shields.io/badge/arXiv-2410.05317-B31B1B?style=flat-square"></a> Chang Zou†, Xuyang Liu†, Ting Liu, <u>Siteng Huang</u>, Linfeng Zhang, &quot;**Accelerating Diffusion Transformers with Token-wise Feature Caching**&quot;. *arXiv preprint arXiv:2410.05317*. [[pdf](https://arxiv.org/pdf/2410.05317.pdf)] [[github](https://github.com/Shenyi-Z/ToCa)]
 

@@ -45,6 +45,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2412.09265" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.09265-B31B1B?style=flat-square"></a> Bofang Jia, Pengxiang Ding, Can Cui, Mingyang Sun, Pengfang Qian, <u>Siteng Huang</u>, Zhaoxin Fan, Donglin Wang, &quot;**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**&quot;. *arXiv preprint arXiv:2412.09265*. [[pdf](https://arxiv.org/pdf/2412.09265.pdf)] [[project page](https://sdm-policy.github.io/)]
+
 <a href="https://arxiv.org/abs/2412.06782" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.06782-B31B1B?style=flat-square"></a> Zhefei Gong, Pengxiang Ding, Shangke Lyu, <u>Siteng Huang</u>, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang, &quot;**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**&quot;. *arXiv preprint arXiv:2412.06782*. [[pdf](https://arxiv.org/pdf/2412.06782.pdf)] [[project page](https://carp-robot.github.io/)] [[huggingface paper](https://huggingface.co/papers/2412.06782)]
 
 <a href="https://arxiv.org/abs/2411.17686" target="_blank"><img src="https://img.shields.io/badge/arXiv-2411.17686-B31B1B?style=flat-square"></a> Yuhang Han†, Xuyang Liu†, Pengxiang Ding, Donglin Wang, Honggang Chen, Qingsen Yan, <u>Siteng Huang✉</u>, &quot;**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**&quot;. *arXiv preprint arXiv:2411.17686*. [[pdf](https://arxiv.org/pdf/2411.17686.pdf)] [[project page](https://FiCoCo-accelerate.github.io/)] [[huggingface paper](https://huggingface.co/papers/2411.17686)]

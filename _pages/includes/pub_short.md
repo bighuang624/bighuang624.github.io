@@ -49,6 +49,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2502.14795" target="_blank"><img src="https://img.shields.io/badge/arXiv-2502.14795-B31B1B?style=flat-square"></a> Pengxiang Ding, Jianfei Ma, Xinyang Tong, Binghong Zou, Xinxin Luo, Yiguo Fan, Ting Wang, Hongchao Lu, Panzhong Mo, Jinxin Liu, Yuefan Wang, Huaicheng Zhou, Wenshuo Feng, Jiacheng Liu, <u>Siteng Huang</u>, Donglin Wang, &quot;**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**&quot;. *arXiv preprint arXiv:2502.14795*. [[pdf](https://arxiv.org/pdf/2502.14795.pdf)]
+
 <a href="https://arxiv.org/abs/2501.05179" target="_blank"><img src="https://img.shields.io/badge/arXiv-2501.05179-B31B1B?style=flat-square"></a> Xuyang Liu, Ziming Wang, Yuhang Han, Yingyao Wang, Jiale Yuan, Jun Song, Bo Zheng, Linfeng Zhang, <u>Siteng Huang</u>, Honggang Chen, &quot;**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**&quot;. *arXiv preprint arXiv:2501.05179*. [[pdf](https://arxiv.org/pdf/2501.05179.pdf)] [[github](https://github.com/xuyang-liu16/GlobalCom2)]
 
 <a href="https://arxiv.org/abs/2412.09265" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.09265-B31B1B?style=flat-square"></a> Bofang Jia, Pengxiang Ding, Can Cui, Mingyang Sun, Pengfang Qian, <u>Siteng Huang</u>, Zhaoxin Fan, Donglin Wang, &quot;**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**&quot;. *arXiv preprint arXiv:2412.09265*. [[pdf](https://arxiv.org/pdf/2412.09265.pdf)] [[project page](https://sdm-policy.github.io/)]

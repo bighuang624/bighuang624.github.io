@@ -47,6 +47,10 @@
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
+### Peer-reviewed Journal
+
+<img src="https://img.shields.io/badge/TCSVT-004e00?style=flat-square"> Xuyang Liu†, Ting Liu†, <u>Siteng Huang✉</u>, Yi Xin, Yue Hu, Long Qin, Donglin Wang, Honggang Chen✉, &quot;**M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension**&quot;. *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[arXiv](https://arxiv.org/abs/2407.01131)] [[github](https://github.com/xuyang-liu16/M2IST)]
+
 ### Preprints & Under Submission
 
 <a href="https://arxiv.org/abs/2502.14795" target="_blank"><img src="https://img.shields.io/badge/arXiv-2502.14795-B31B1B?style=flat-square"></a> Pengxiang Ding, Jianfei Ma, Xinyang Tong, Binghong Zou, Xinxin Luo, Yiguo Fan, Ting Wang, Hongchao Lu, Panzhong Mo, Jinxin Liu, Yuefan Wang, Huaicheng Zhou, Wenshuo Feng, Jiacheng Liu, <u>Siteng Huang</u>, Donglin Wang, &quot;**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**&quot;. *arXiv preprint arXiv:2502.14795*. [[pdf](https://arxiv.org/pdf/2502.14795.pdf)]
@@ -60,8 +64,6 @@
 <a href="https://arxiv.org/abs/2411.17686" target="_blank"><img src="https://img.shields.io/badge/arXiv-2411.17686-B31B1B?style=flat-square"></a> Yuhang Han†, Xuyang Liu†, Pengxiang Ding, Donglin Wang, Honggang Chen, Qingsen Yan, <u>Siteng Huang✉</u>, &quot;**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**&quot;. *arXiv preprint arXiv:2411.17686*. [[pdf](https://arxiv.org/pdf/2411.17686.pdf)] [[project page](https://FiCoCo-accelerate.github.io/)] [[huggingface paper](https://huggingface.co/papers/2411.17686)] [[github](https://github.com/kawhiiiileo/FiCoCo)]
 
 <a href="https://arxiv.org/abs/2408.17083" target="_blank"><img src="https://img.shields.io/badge/arXiv-2408.17083-B31B1B?style=flat-square"></a> Fengyuan Dai, <u>Siteng Huang</u>, Min Zhang, Biao Gong, Donglin Wang, &quot;**Focus-Consistent Multi-Level Aggregation for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2408.17083*. [[pdf](https://arxiv.org/pdf/2408.17083.pdf)]
-
-<a href="https://arxiv.org/abs/2407.01131" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.01131-B31B1B?style=flat-square"></a> Xuyang Liu†, Ting Liu†, <u>Siteng Huang✉</u>, Yue Hu, Quanjun Yin, Donglin Wang, Honggang Chen✉, &quot;**M<sup>2</sup>IST: Multi-Modal Interactive Side-Tuning for Memory-efficient Referring Expression Comprehension**&quot;. *arXiv preprint arXiv:2407.01131*. [[pdf](https://arxiv.org/pdf/2407.01131.pdf)] [[github](https://github.com/xuyang-liu16/M2IST)]
 
 <a href="https://arxiv.org/abs/2405.14700" target="_blank"><img src="https://img.shields.io/badge/arXiv-2405.14700-B31B1B?style=flat-square"></a> Ting Liu†, Xuyang Liu†, <u>Siteng Huang</u>, Liangtao Shi, Zunnan Xu, Yi Xin, Quanjun Yin, Xiaohong Liu, &quot;**Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference**&quot;. *arXiv preprint arXiv:2405.14700*. [[pdf](https://arxiv.org/pdf/2405.14700.pdf)] [[github](https://github.com/liuting20/Sparse-Tuning)]
 

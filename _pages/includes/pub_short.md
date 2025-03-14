@@ -49,7 +49,7 @@
 
 ### Peer-reviewed Journal
 
-<img src="https://img.shields.io/badge/TCSVT-2025-004e00?style=flat-square"> Xuyang Liu†, Ting Liu†, <u>Siteng Huang✉</u>, Yi Xin, Yue Hu, Long Qin, Donglin Wang, Honggang Chen✉, &quot;**M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension**&quot;. *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[arXiv](https://arxiv.org/abs/2407.01131)] [[github](https://github.com/xuyang-liu16/M2IST)]
+<img src="https://img.shields.io/badge/TCSVT-2025-49846a?style=flat-square"> Xuyang Liu†, Ting Liu†, <u>Siteng Huang✉</u>, Yi Xin, Yue Hu, Long Qin, Donglin Wang, Honggang Chen✉, &quot;**M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension**&quot;. *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[arXiv](https://arxiv.org/abs/2407.01131)] [[github](https://github.com/xuyang-liu16/M2IST)]
 
 ### Preprints & Under Submission
 

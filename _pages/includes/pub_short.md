@@ -53,6 +53,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2503.21765" target="_blank"><img src="https://img.shields.io/badge/arXiv-2503.21765-B31B1B?style=flat-square"></a> Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, <u>Siteng Huang✉</u>, and Donglin Wang✉, &quot;**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**&quot;. *arXiv preprint arXiv:2503.21765*. [[pdf](https://arxiv.org/pdf/2503.21765.pdf)] [[github](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)] [[huggingface paper](https://huggingface.co/papers/2503.21765)]
+
 <a href="https://arxiv.org/abs/2502.14795" target="_blank"><img src="https://img.shields.io/badge/arXiv-2502.14795-B31B1B?style=flat-square"></a> Pengxiang Ding, Jianfei Ma, Xinyang Tong, Binghong Zou, Xinxin Luo, Yiguo Fan, Ting Wang, Hongchao Lu, Panzhong Mo, Jinxin Liu, Yuefan Wang, Huaicheng Zhou, Wenshuo Feng, Jiacheng Liu, <u>Siteng Huang</u>, Donglin Wang, &quot;**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**&quot;. *arXiv preprint arXiv:2502.14795*. [[pdf](https://arxiv.org/pdf/2502.14795.pdf)]
 
 <a href="https://arxiv.org/abs/2501.05179" target="_blank"><img src="https://img.shields.io/badge/arXiv-2501.05179-B31B1B?style=flat-square"></a> Xuyang Liu, Ziming Wang, Yuhang Han, Yingyao Wang, Jiale Yuan, Jun Song, Bo Zheng, Linfeng Zhang, <u>Siteng Huang</u>, Honggang Chen, &quot;**Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models**&quot;. *arXiv preprint arXiv:2501.05179*. [[pdf](https://arxiv.org/pdf/2501.05179.pdf)] [[github](https://github.com/xuyang-liu16/GlobalCom2)]

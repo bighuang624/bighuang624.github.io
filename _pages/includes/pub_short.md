@@ -53,6 +53,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2503.22655" target="_blank"><img src="https://img.shields.io/badge/arXiv-2503.22655-B31B1B?style=flat-square"></a> Xiaomin Yu, Pengxiang Ding, Wenjie Zhang, <u>Siteng Huang</u>, Songyang Gao, Chengwei Qin, Kejian Wu, Zhaoxin Fan, Ziyue Qiao, Donglin Wang, &quot;**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**&quot;. *arXiv preprint arXiv:2503.22655*. [[pdf](https://arxiv.org/pdf/2503.22655.pdf)] [[github](https://github.com/Yu-xm/Unicorn)]
+
 <a href="https://arxiv.org/abs/2503.21765" target="_blank"><img src="https://img.shields.io/badge/arXiv-2503.21765-B31B1B?style=flat-square"></a> Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, <u>Siteng Huang✉</u>, and Donglin Wang✉, &quot;**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**&quot;. *arXiv preprint arXiv:2503.21765*. [[pdf](https://arxiv.org/pdf/2503.21765.pdf)] [[github](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)] [[huggingface paper](https://huggingface.co/papers/2503.21765)]
 
 <a href="https://arxiv.org/abs/2502.14795" target="_blank"><img src="https://img.shields.io/badge/arXiv-2502.14795-B31B1B?style=flat-square"></a> Pengxiang Ding, Jianfei Ma, Xinyang Tong, Binghong Zou, Xinxin Luo, Yiguo Fan, Ting Wang, Hongchao Lu, Panzhong Mo, Jinxin Liu, Yuefan Wang, Huaicheng Zhou, Wenshuo Feng, Jiacheng Liu, <u>Siteng Huang</u>, Donglin Wang, &quot;**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**&quot;. *arXiv preprint arXiv:2502.14795*. [[pdf](https://arxiv.org/pdf/2502.14795.pdf)]

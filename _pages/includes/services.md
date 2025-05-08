@@ -10,12 +10,14 @@
 
 ### Conference Reviewer
 
+* Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
 * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/)
 * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
 * ACM International Conference on Multimedia [(ACMMM)](https://acmmm2025.org/)
+* Conference on Robot Learning [(CoRL)](https://www.corl.org/home)
 * IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
 * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/)
 * Asian Conference on Computer Vision [(ACCV)](https://link.springer.com/conference/accv)

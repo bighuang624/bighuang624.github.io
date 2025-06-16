@@ -25,6 +25,7 @@
 
 ### Journal Reviewer
 
+* IEEE Robotics and Automation Letters [(RA-L)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)

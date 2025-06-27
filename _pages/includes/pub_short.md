@@ -55,6 +55,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2506.21539" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.21539-B31B1B?style=flat-square"></a> Jun Cen, Chaohui Yu, Hangjie Yuan, Yuming Jiang, <u>Siteng Huang</u>, Jiayan Guo, Xin Li, Yibing Song, Hao Luo, Fan Wang, Deli Zhao, Hao Chen, &quot;**WorldVLA: Towards Autoregressive Action World Model**&quot;. *arXiv preprint arXiv:2506.21539*. [[pdf](https://arxiv.org/pdf/2506.21539.pdf)] [[huggingface paper](https://huggingface.co/papers/2506.21539)] [[github](https://github.com/alibaba-damo-academy/WorldVLA)]
+
 <a href="https://arxiv.org/abs/2505.15791" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.15791-B31B1B?style=flat-square"></a> Fengyuan Dai†, Zifeng Zhuang†, Yufei Huang, <u>Siteng Huang</u>, Bangyan Liao, Donglin Wang, Fajie Yuan, &quot;**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**&quot;. *arXiv preprint arXiv:2505.15791*. [[pdf](https://arxiv.org/pdf/2505.15791.pdf)] [[huggingface paper](https://huggingface.co/papers/2505.15791)]
 
 <a href="https://arxiv.org/abs/2505.12448" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.12448-B31B1B?style=flat-square"></a> Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, Han Zhao, Mingyang Sun, <u>Siteng Huang</u>, Donglin Wang, &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;. *arXiv preprint arXiv:2505.12448*. [[pdf](https://arxiv.org/pdf/2505.12448.pdf)] [[project page](https://yliu-cs.github.io/SSR/)] [[github](https://github.com/yliu-cs/SSR)] [[huggingface paper](https://huggingface.co/papers/2505.12448)]

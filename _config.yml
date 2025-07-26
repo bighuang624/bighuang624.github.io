@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siteng Huang (黄思腾)"
-description              : "Focusing on multi-modal large models." # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
+description              : "Focusing on Embodied AI, Multi-modal Large Models, and EfficientAI." # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
 repository               : "bighuang624/bighuang624.github.io"
 google_scholar_stats_use_cdn : true
 

@@ -5,6 +5,8 @@
 
 ### Peer-reviewed Conference
 
+<img src="https://img.shields.io/badge/CoRL-2025-blue?style=flat-square"> Yiguo Fan, Shuanghao Bai, Xinyang Tong, Pengxiang Ding, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, <u>Siteng Huang</u>, Zhaoxin Fan, Badong Chen, Donglin Wang, &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;. In *Proceedings of the 9th Annual Conference on Robot Learning*.
+
 <img src="https://img.shields.io/badge/ICCV-2025-blue?style=flat-square"> Zhefei Gong, Pengxiang Ding, Shangke Lyu, <u>Siteng Huang</u>, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang, &quot;**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**&quot;. In *Proceedings of the International Conference on Computer Vision 2025*. [[arXiv](https://arxiv.org/abs/2412.06782)] [[project page](https://carp-robot.github.io/)] [[huggingface paper](https://huggingface.co/papers/2412.06782)]
 
 <img src="https://img.shields.io/badge/ICRA-2025-blue?style=flat-square"> Xinyang Tong, Pengxiang Ding, Donglin Wang, Wenjie Zhang, Can Cui, Mingyang Sun, Yiguo Fan, Han Zhao, Hongyin Zhang, Yonghao Dang, <u>Siteng Huang</u>, Shangke Lyu, &quot;**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**&quot;. In *Proceedings of the 2025 IEEE International Conference on Robotics and Automation*. [[arXiv](https://arxiv.org/abs/2412.15576)] [[project page](https://quart-online.github.io/)]

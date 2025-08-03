@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siteng Huang (黄思腾)"
+title                    : "TestFor build"
 description              : "Focusing on Embodied AI, Multi-modal Large Models, and EfficientAI." # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
 repository               : "bighuang624/bighuang624.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siteng Huang (黄思腾)"
+  name             : "Siteng Huang (你好)"
   avatar           : "images/profile.png"
   bio              : "Algorithm Expert in Alibaba DAMO Academy"
   location         : "Hangzhou, China"

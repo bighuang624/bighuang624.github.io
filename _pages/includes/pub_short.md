@@ -57,7 +57,7 @@
 
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2508.08896" target="_blank"><img src="https://img.shields.io/badge/arXiv-2508.08896-B31B1B?style=flat-square"></a> Haoyu Zhao†, Linghao Zhuang†, Xingyue Zhao†, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiayan Guo, <u>Siteng Huang✉</u>, Xin Li, Deli Zhao, Hua Zou✉, &quot;**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**&quot;. *arXiv preprint arXiv:2506.21539*. [[pdf](https://arxiv.org/pdf/2508.08896.pdf)]
+<a href="https://arxiv.org/abs/2508.08896" target="_blank"><img src="https://img.shields.io/badge/arXiv-2508.08896-B31B1B?style=flat-square"></a> Haoyu Zhao†, Linghao Zhuang†, Xingyue Zhao†, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiayan Guo, <u>Siteng Huang✉</u>, Xin Li, Deli Zhao, Hua Zou✉, &quot;**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**&quot;. *arXiv preprint arXiv:2508.08896*. [[pdf](https://arxiv.org/pdf/2508.08896.pdf)] [[huggingface paper](https://huggingface.co/papers/2508.08896)]
 
 <a href="https://arxiv.org/abs/2506.21539" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.21539-B31B1B?style=flat-square"></a> Jun Cen, Chaohui Yu, Hangjie Yuan, Yuming Jiang, <u>Siteng Huang</u>, Jiayan Guo, Xin Li, Yibing Song, Hao Luo, Fan Wang, Deli Zhao, Hao Chen, &quot;**WorldVLA: Towards Autoregressive Action World Model**&quot;. *arXiv preprint arXiv:2506.21539*. [[pdf](https://arxiv.org/pdf/2506.21539.pdf)] [[huggingface paper](https://huggingface.co/papers/2506.21539)] [[github](https://github.com/alibaba-damo-academy/WorldVLA)]
 

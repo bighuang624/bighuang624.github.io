@@ -18,6 +18,7 @@
 * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
 * ACM International Conference on Multimedia [(ACMMM)](https://acmmm2025.org/)
 * Conference on Robot Learning [(CoRL)](https://www.corl.org/home)
+* IEEE International Conference on Robotics and Automation [(ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings)
 * IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
 * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/)
 * Asian Conference on Computer Vision [(ACCV)](https://link.springer.com/conference/accv)

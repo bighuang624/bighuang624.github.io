@@ -29,6 +29,7 @@
 * IEEE Robotics and Automation Letters [(RA-L)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+* IEEE Transactions on Multimedia [(TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
 <!-- * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) -->
 * Journal of Visual Communication and Image Representation [(JVCI)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)

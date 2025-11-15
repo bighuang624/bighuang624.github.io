@@ -31,6 +31,7 @@
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 * IEEE Transactions on Multimedia [(TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist)
+* ACM Transactions on Information Systems [(ACM TOIS)](https://dl.acm.org/journal/tois)
 <!-- * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) -->
 * Journal of Visual Communication and Image Representation [(JVCI)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
 * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634)

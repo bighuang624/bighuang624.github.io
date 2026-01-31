@@ -2,6 +2,7 @@
 
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/01/31</span> **[ICRA'26]** [RynnVLA-001](https://arxiv.org/abs/2509.15212), the VLA foundation model, got accepted for ICRA 2026!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/01/22</span> **[Talk]** Talked at AAAI-26 Interactive Industry Sessions, [Physical AI Ecosystem: Tackling the Key Barriers to Embodied Intelligence](https://aaai.org/conference/aaai/aaai-26/interactive-industry-sessions/#Alibaba).
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/12/11</span> **[Preprint]** We released [HiF-VLA](https://arxiv.org/abs/2512.09928) (Hindsight, Insight, and Foresight for VLAs), a unified framework that encodes past dynamics through hindsight priors, anticipates future motion via foresight reasoning, and integrates both through a hindsight-modulated joint expert to enable a "**think-while-acting**" paradigm for long-horizon manipulation! [Project page](https://hifvla.github.io) and [Code](https://github.com/OpenHelix-Team/HiF-VLA) are available!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/11/24</span> **[Preprint]** We released [RynnVLA-002](https://arxiv.org/abs/2511.17502), an upgraded version of WorldVLA, a more powerful VLA and world model unified model! Get videos and code at [Github](https://github.com/alibaba-damo-academy/RynnVLA-002)!

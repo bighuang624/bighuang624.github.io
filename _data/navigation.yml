@@ -24,11 +24,14 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
+  - title: "Internship Experience"
+    url: "/#-internship-experience"
 
   - title: "Services"
     url: "/#-services"
+
+  # - title: "Join Us"
+  #   url: "/#-join-us"
 
   - title: "Misc"
     url: "/#-misc"

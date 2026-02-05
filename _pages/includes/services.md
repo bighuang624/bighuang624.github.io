@@ -14,6 +14,7 @@
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+* Annual Meeting of the Association for Computational Linguistics [(ACL)](https://aclanthology.org/venues/acl/)
 * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/)
 * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
 * ACM International Conference on Multimedia [(ACMMM)](https://acmmm2025.org/)
@@ -38,4 +39,5 @@
 
 ### Program Committee for Conferences and Workshops
 
+* Session Chair, AAAI 2026
 * Session Chair, The First Westlake Robot Learning Symposium

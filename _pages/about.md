@@ -51,16 +51,18 @@ redirect_from:
 }
 </style>
 
+# Publications
+
 <div class="pub-toggle" role="group" aria-label="Publications view">
   <button type="button" class="pub-toggle-btn is-active" data-target="pub-short" aria-pressed="true">Short</button>
   <button type="button" class="pub-toggle-btn" data-target="pub-full" aria-pressed="false">Full</button>
 </div>
 
-<div id="pub-short" class="pub-panel">
+<div id="pub-short" class="pub-panel" markdown="1">
 {% include_relative includes/pub_short.md %}
 </div>
 
-<div id="pub-full" class="pub-panel is-hidden">
+<div id="pub-full" class="pub-panel is-hidden" markdown="1">
 {% include_relative includes/pub.md %}
 </div>
 
@@ -96,3 +98,4 @@ redirect_from:
 {% include_relative includes/services.md %}
 
 {% include_relative includes/misc.md %}
+

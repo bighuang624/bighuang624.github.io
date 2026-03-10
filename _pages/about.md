@@ -27,9 +27,69 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-<!-- {% include_relative includes/pub.md %} -->
+<style>
+.pub-toggle {
+  display: inline-flex;
+  gap: 8px;
+  margin: 8px 0 12px;
+}
+.pub-toggle-btn {
+  border: 1px solid #999;
+  background: #fff;
+  color: #222;
+  padding: 4px 10px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.pub-toggle-btn.is-active {
+  background: #222;
+  color: #fff;
+  border-color: #222;
+}
+.pub-panel.is-hidden {
+  display: none;
+}
+</style>
 
+<div class="pub-toggle" role="group" aria-label="Publications view">
+  <button type="button" class="pub-toggle-btn is-active" data-target="pub-short" aria-pressed="true">Short</button>
+  <button type="button" class="pub-toggle-btn" data-target="pub-full" aria-pressed="false">Full</button>
+</div>
+
+<div id="pub-short" class="pub-panel">
 {% include_relative includes/pub_short.md %}
+</div>
+
+<div id="pub-full" class="pub-panel is-hidden">
+{% include_relative includes/pub.md %}
+</div>
+
+<script>
+(function () {
+  var buttons = document.querySelectorAll(".pub-toggle-btn");
+  if (!buttons.length) return;
+  var panels = {
+    "pub-short": document.getElementById("pub-short"),
+    "pub-full": document.getElementById("pub-full")
+  };
+  function activate(targetId) {
+    Object.keys(panels).forEach(function (key) {
+      if (!panels[key]) return;
+      panels[key].classList.toggle("is-hidden", key !== targetId);
+    });
+    buttons.forEach(function (btn) {
+      var isActive = btn.getAttribute("data-target") === targetId;
+      btn.classList.toggle("is-active", isActive);
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+    });
+  }
+  buttons.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      activate(btn.getAttribute("data-target"));
+    });
+  });
+})();
+</script>
 
 {% include_relative includes/experience.md %}
 

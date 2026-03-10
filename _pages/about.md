@@ -51,18 +51,18 @@ redirect_from:
 }
 </style>
 
-# Publications
+# 📝 Publications
 
 <div class="pub-toggle" role="group" aria-label="Publications view">
-  <button type="button" class="pub-toggle-btn is-active" data-target="pub-short" aria-pressed="true">Short</button>
-  <button type="button" class="pub-toggle-btn" data-target="pub-full" aria-pressed="false">Full</button>
+  <button type="button" class="pub-toggle-btn is-active" data-target="pub-all" aria-pressed="true">Show by All</button>
+  <button type="button" class="pub-toggle-btn" data-target="pub-selected" aria-pressed="false">Show by Topic</button>
 </div>
 
-<div id="pub-short" class="pub-panel" markdown="1">
+<div id="pub-all" class="pub-panel" markdown="1">
 {% include_relative includes/pub_short.md %}
 </div>
 
-<div id="pub-full" class="pub-panel is-hidden" markdown="1">
+<div id="pub-selected" class="pub-panel is-hidden" markdown="1">
 {% include_relative includes/pub.md %}
 </div>
 
@@ -71,8 +71,8 @@ redirect_from:
   var buttons = document.querySelectorAll(".pub-toggle-btn");
   if (!buttons.length) return;
   var panels = {
-    "pub-short": document.getElementById("pub-short"),
-    "pub-full": document.getElementById("pub-full")
+    "pub-all": document.getElementById("pub-all"),
+    "pub-selected": document.getElementById("pub-selected")
   };
   function activate(targetId) {
     Object.keys(panels).forEach(function (key) {

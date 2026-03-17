@@ -4,23 +4,28 @@
 .news-toggle-btn {
   border: 1px solid #999;
   background: #fff;
-  color: #222;
+  color: #224b8d;
   padding: 4px 10px;
   font-size: 0.9rem;
   cursor: pointer;
   margin: 4px 0 10px;
+  transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease;
 }
 .news-toggle-btn.is-active {
-  background: #222;
+  background: #224b8d;
   color: #fff;
-  border-color: #222;
+  border-color: #224b8d;
+}
+.news-toggle-btn:hover {
+  background: #224b8d;
+  color: #fff;
+  border-color: #224b8d;
 }
 .news-year.is-hidden {
   display: none;
 }
 </style>
 
-<button type="button" class="news-toggle-btn" data-target="news-2025" aria-expanded="false">Show more</button>
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/03/13</span> **[Preprint]** We released [Articulat3D](https://arxiv.org/abs/2603.11606), a novel framework for constructing high-fidelity digital twins of articulated objects from casually captured monocular videos! See [Project page](https://maxwell-zhao.github.io/Articulat3D/) for the overview video!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/21</span> **[CVPR'26]** 2 papers ([HiF-VLA](https://arxiv.org/abs/2512.09928) and [V²Drop](https://arxiv.org/abs/2509.01552)) got accepted for CVPR 2026 (Main Conference)! 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/18</span> **[RA-L]** [RoboSimGS](https://arxiv.org/abs/2510.10637), a novel Real2Sim2Real framework that converts multi-view real-world images into scalable, high-fidelity, and physically interactive simulation environments for robotic manipulation, got accepted for RA-L! See [Project page](https://robosimgs.github.io/) for the overview video!
@@ -49,6 +54,7 @@
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/23</span> **[ICLR'25]** [ToCa](https://arxiv.org/abs/2410.05317), a token-wise feature caching method that achieves a 2x acceleration for PixArt-α, OpenSora, and DiT while maintaining nearly lossless generation quality, got accepted for ICLR 2025! [Code](https://github.com/Shenyi-Z/ToCa) has been available!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/10</span> **[Preprint]** We released [GlobalCom<sup>2</sup>](https://arxiv.org/abs/2501.05179), a "global-to-local" approach for training-free acceleration of high-resolution MLLMs with AnyRes strategy. [Code](https://github.com/xuyang-liu16/GlobalCom2) has been available! <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/11/08</span> GlobalCom<sup>2</sup> got accepted for AAAI 2026!
 </div>
+<button type="button" class="news-toggle-btn" data-target="news-2025" aria-expanded="false">Show more</button>
 
 <script>
 (function () {
@@ -67,4 +73,3 @@
   setExpanded(false);
 })();
 </script>
-

@@ -36,15 +36,21 @@ redirect_from:
 .pub-toggle-btn {
   border: 1px solid #999;
   background: #fff;
-  color: #222;
+  color: #224b8d;
   padding: 4px 10px;
   font-size: 0.9rem;
   cursor: pointer;
+  transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease;
 }
 .pub-toggle-btn.is-active {
-  background: #222;
+  background: #224b8d;
   color: #fff;
-  border-color: #222;
+  border-color: #224b8d;
+}
+.pub-toggle-btn:hover {
+  background: #224b8d;
+  color: #fff;
+  border-color: #224b8d;
 }
 .pub-panel.is-hidden {
   display: none;

@@ -1,13 +1,33 @@
 # 📢 News
 
-<!-- 参考 https://huanwang.tech/ 的样式 -->
+<style>
+.news-toggle-btn {
+  border: 1px solid #999;
+  background: #fff;
+  color: #222;
+  padding: 4px 10px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin: 4px 0 10px;
+}
+.news-toggle-btn.is-active {
+  background: #222;
+  color: #fff;
+  border-color: #222;
+}
+.news-year.is-hidden {
+  display: none;
+}
+</style>
 
+<button type="button" class="news-toggle-btn" data-target="news-2025" aria-expanded="false">Show more</button>
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/03/13</span> **[Preprint]** We released [Articulat3D](https://arxiv.org/abs/2603.11606), a novel framework for constructing high-fidelity digital twins of articulated objects from casually captured monocular videos! See [Project page](https://maxwell-zhao.github.io/Articulat3D/) for the overview video!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/21</span> **[CVPR'26]** 2 papers ([HiF-VLA](https://arxiv.org/abs/2512.09928) and [V²Drop](https://arxiv.org/abs/2509.01552)) got accepted for CVPR 2026 (Main Conference)! 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/18</span> **[RA-L]** [RoboSimGS](https://arxiv.org/abs/2510.10637), a novel Real2Sim2Real framework that converts multi-view real-world images into scalable, high-fidelity, and physically interactive simulation environments for robotic manipulation, got accepted for RA-L! See [Project page](https://robosimgs.github.io/) for the overview video!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/10</span> **[RynnBrain]** We presented [RynnBrain](https://alibaba-damo-academy.github.io/RynnBrain.github.io/), an embodied foundation model grounded in physical reality, including dense (2B, 8B) and MoE (30B) variants, alongside three specialized models: RynnBrain‑Plan (manipulation planning), RynnBrain‑Nav (navigation), and RynnBrain‑CoP (spatial reasoning). See [Github](https://github.com/alibaba-damo-academy/RynnBrain) and [Chinese report from 机器之心](https://mp.weixin.qq.com/s/53UMfJL6VG-TAA4KJNv8Mg). <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/19</span> We released the [technical report](https://arxiv.org/pdf/2602.14979)!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/01/31</span> **[ICRA'26]** [RynnVLA-001](https://arxiv.org/abs/2509.15212), the VLA foundation model, got accepted for ICRA 2026!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/01/22</span> **[Talk]** I gave a talk titled *Physical AI Ecosystem: Tackling the Key Barriers to Embodied Intelligence* in [AAAI-26 Interactive Industry Sessions](https://aaai.org/conference/aaai/aaai-26/interactive-industry-sessions/#Alibaba).
+<div id="news-2025" class="news-year is-hidden" markdown="1">
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/12/11</span> **[Preprint]** We released [HiF-VLA](https://arxiv.org/abs/2512.09928) (Hindsight, Insight, and Foresight for VLAs), a unified framework that encodes past dynamics through hindsight priors, anticipates future motion via foresight reasoning, and integrates both through a hindsight-modulated joint expert to enable a "**think-while-acting**" paradigm for long-horizon manipulation! [Project page](https://hifvla.github.io) and [Code](https://github.com/OpenHelix-Team/HiF-VLA) are available! <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/21</span> HiF-VLA got accepted for CVPR 2026!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/11/24</span> **[Preprint]** We released [RynnVLA-002](https://arxiv.org/abs/2511.17502), an upgraded version of WorldVLA, a more powerful VLA and world model unified model! Get videos and code at [Github](https://github.com/alibaba-damo-academy/RynnVLA-002)!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/11/08</span> **[AAAI'26]** 4 papers got accepted for AAAI 2026! They included training-free MLLM inference acceleration methods [FiCoCo](https://arxiv.org/abs/2411.17686) and [GlobalCom<sup>2</sup>](https://arxiv.org/abs/2501.05179), dexterous grasping policy [AffordDex](https://arxiv.org/abs/2508.08896), and tiny-scale VLA [VLA-Adapter](https://arxiv.org/abs/2509.09372).
@@ -28,3 +48,23 @@
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/28</span> **[ICRA'25]** [QUART-Online](https://arxiv.org/abs/2412.15576), a novel latency-free quadruped MLLM model that achieves real-time inference while boosting the success rate across various tasks by 65%, got accepted for ICRA 2025! See [Project page](https://quart-online.github.io/).
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/23</span> **[ICLR'25]** [ToCa](https://arxiv.org/abs/2410.05317), a token-wise feature caching method that achieves a 2x acceleration for PixArt-α, OpenSora, and DiT while maintaining nearly lossless generation quality, got accepted for ICLR 2025! [Code](https://github.com/Shenyi-Z/ToCa) has been available!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/10</span> **[Preprint]** We released [GlobalCom<sup>2</sup>](https://arxiv.org/abs/2501.05179), a "global-to-local" approach for training-free acceleration of high-resolution MLLMs with AnyRes strategy. [Code](https://github.com/xuyang-liu16/GlobalCom2) has been available! <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/11/08</span> GlobalCom<sup>2</sup> got accepted for AAAI 2026!
+</div>
+
+<script>
+(function () {
+  var btn = document.querySelector(".news-toggle-btn");
+  var panel = document.getElementById("news-2025");
+  if (!btn || !panel) return;
+  function setExpanded(expanded) {
+    panel.classList.toggle("is-hidden", !expanded);
+    btn.classList.toggle("is-active", expanded);
+    btn.setAttribute("aria-expanded", expanded ? "true" : "false");
+    btn.textContent = expanded ? "Show less" : "Show more";
+  }
+  btn.addEventListener("click", function () {
+    setExpanded(panel.classList.contains("is-hidden"));
+  });
+  setExpanded(false);
+})();
+</script>
+

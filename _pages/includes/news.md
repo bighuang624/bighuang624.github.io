@@ -2,7 +2,7 @@
 
 <style>
 .news-toggle-btn {
-  border: 1px solid #999;
+  border: 1px solid #224b8d;
   background: #fff;
   color: #224b8d;
   padding: 4px 10px;

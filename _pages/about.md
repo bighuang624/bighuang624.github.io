@@ -34,7 +34,7 @@ redirect_from:
   margin: 8px 0 12px;
 }
 .pub-toggle-btn {
-  border: 1px solid #999;
+  border: 1px solid #224b8d;
   background: #fff;
   color: #224b8d;
   padding: 4px 10px;

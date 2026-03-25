@@ -10,7 +10,7 @@
 
 ### Conference Reviewer
 
-* Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
+* Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/) <span style="color:red">Declined NeurIPS 2026 reviewer invitation</span>
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)

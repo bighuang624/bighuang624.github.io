@@ -26,6 +26,7 @@
 }
 </style>
 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/03/27</span> **[Preprint]** We released [MMaDA-VLA](https://arxiv.org/abs/2603.25406), a fully native pre-trained large diffusion VLA model that unifies multi-modal understanding and generation in a single framework! See [Project page](https://robosimgs.github.io/) for more details!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/03/13</span> **[Preprint]** We released [Articulat3D](https://arxiv.org/abs/2603.11606), a novel framework for constructing high-fidelity digital twins of articulated objects from casually captured monocular videos! See [Project page](https://maxwell-zhao.github.io/Articulat3D/) for the overview video!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/21</span> **[CVPR'26]** 2 papers ([HiF-VLA](https://arxiv.org/abs/2512.09928) and [V²Drop](https://arxiv.org/abs/2509.01552)) got accepted for CVPR 2026 (Main Conference)! 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/02/18</span> **[RA-L]** [RoboSimGS](https://arxiv.org/abs/2510.10637), a novel Real2Sim2Real framework that converts multi-view real-world images into scalable, high-fidelity, and physically interactive simulation environments for robotic manipulation, got accepted for RA-L! See [Project page](https://robosimgs.github.io/) for the overview video!

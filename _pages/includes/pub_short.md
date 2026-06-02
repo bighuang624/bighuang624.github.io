@@ -73,6 +73,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2606.01790" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.01790-B31B1B?style=flat-square"></a> YYuhang Han, Wenzheng Yang, Yujie Chen, Xiangqi Jin, Yaojie Zhang, <u>Siteng Huang</u>, Linfeng Zhang, &quot;**STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models**&quot;. *arXiv preprint arXiv:2606.01790*. [[pdf](https://arxiv.org/pdf/2606.01790.pdf)] [[github](https://github.com/kawhiiiileo/STaR-KV)]
+
 <a href="https://arxiv.org/abs/2603.25406" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.25406-B31B1B?style=flat-square"></a> Yang Liu, Pengxiang Ding, Tengyue Jiang, Xudong Wang, Wenxuan Song, Minghui Lin, Han Zhao, Hongyin Zhang, Zifeng Zhuang, Wei Zhao, <u>Siteng Huang</u>, Jinkui Shi, Donglin Wang, &quot;**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**&quot;. *arXiv preprint arXiv:2603.25406*. [[pdf](https://arxiv.org/pdf/2603.25406.pdf)] [[project page](https://yliu-cs.github.io/MMaDA-VLA/)] [[github](https://github.com/yliu-cs/MMaDA-VLA)]
 
 <a href="https://arxiv.org/abs/2603.11606" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.11606-B31B1B?style=flat-square"></a> Lijun Guo, Haoyu Zhao, Xingyue Zhao, Rong Fu, Linghao Zhuang, <u>Siteng Huang</u>, Zhongyu Li, Hua Zou, &quot;**Articulat3D: Reconstructing Articulated Digital Twins From Monocular Videos with Geometric and Motion Constraints**&quot;. *arXiv preprint arXiv:2603.11606*. [[pdf](https://arxiv.org/pdf/2603.11606.pdf)] [[project page](https://maxwell-zhao.github.io/Articulat3D/)]

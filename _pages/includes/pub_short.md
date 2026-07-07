@@ -75,6 +75,8 @@
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2607.01804" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.01804-B31B1B?style=flat-square"></a> Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, <u>Siteng Huang</u>, Xin Li, Jie Zhang, Yongliang Shen, Xuhong Zhang, Wenqi Zhang, &quot;**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**&quot;. *arXiv preprint arXiv:2607.01804*. [[pdf](https://arxiv.org/pdf/2607.01804.pdf)] [[github](https://github.com/ZJU-OmniAI/vla-corrector)]
+
 <a href="https://arxiv.org/abs/2606.01790" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.01790-B31B1B?style=flat-square"></a> Yuhang Han, Wenzheng Yang, Yujie Chen, Xiangqi Jin, Yaojie Zhang, <u>Siteng Huang</u>, Linfeng Zhang, &quot;**STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models**&quot;. *arXiv preprint arXiv:2606.01790*. [[pdf](https://arxiv.org/pdf/2606.01790.pdf)] [[github](https://github.com/kawhiiiileo/STaR-KV)]
 
 <a href="https://arxiv.org/abs/2603.25406" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.25406-B31B1B?style=flat-square"></a> Yang Liu, Pengxiang Ding, Tengyue Jiang, Xudong Wang, Wenxuan Song, Minghui Lin, Han Zhao, Hongyin Zhang, Zifeng Zhuang, Wei Zhao, <u>Siteng Huang</u>, Jinkui Shi, Donglin Wang, &quot;**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**&quot;. *arXiv preprint arXiv:2603.25406*. [[pdf](https://arxiv.org/pdf/2603.25406.pdf)] [[project page](https://yliu-cs.github.io/MMaDA-VLA/)] [[github](https://github.com/yliu-cs/MMaDA-VLA)]

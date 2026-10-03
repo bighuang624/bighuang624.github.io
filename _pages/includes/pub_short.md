@@ -75,7 +75,9 @@
 
 ### Peer-reviewed Journal
 
-<img src="https://img.shields.io/badge/TMLR-2026-49846a?style=flat-square"> Yichen Han, Yuhang Han, <u>Siteng Huang</u>, Guanyu Liu, Yujia Zhang, Jianwei Shi, Isaac N Shi, Lewei He, Tianyu Shi, &quot;**MAPGD: Multi-Agent Prompt Gradient Descent for Collaborative Prompt Optimization**&quot;. *Transactions on Machine Learning Research*, 2026. [[arXiv](https://arxiv.org/abs/2509.11361)] [[github](https://github.com/kawhiiiileo/MAPGD)]
+<img src="https://img.shields.io/badge/TCSVT-Accepted-49846a?style=flat-square"> Ting Liu†, Xuyang Liu†, Liangtao Shi, Zunnan Xu, Yue Hu✉, <u>Siteng Huang✉</u>, Yi Xin, Bineng Zhong, Donglin Wang, &quot;**Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference**&quot;. *IEEE Transactions on Circuits and Systems for Video Technology*. [[arXiv](https://arxiv.org/abs/2405.14700)] [[github](https://github.com/liuting20/Sparse-Tuning)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:hqOjcs7Dif8C' href="" target="_blank"></a>
+
+<img src="https://img.shields.io/badge/TMLR-Accepted-49846a?style=flat-square"> Yichen Han, Yuhang Han, <u>Siteng Huang</u>, Guanyu Liu, Yujia Zhang, Jianwei Shi, Isaac N Shi, Lewei He, Tianyu Shi, &quot;**MAPGD: Multi-Agent Prompt Gradient Descent for Collaborative Prompt Optimization**&quot;. *Transactions on Machine Learning Research*. [[arXiv](https://arxiv.org/abs/2509.11361)] [[github](https://github.com/kawhiiiileo/MAPGD)]
 
 <a href="https://ieeexplore.ieee.org/document/11425018" target="_blank"><img src="https://img.shields.io/badge/RAL-2026-49846a?style=flat-square"></a> Haoyu Zhao†, Cheng Zeng†, Linghao Zhuang†, Yaxi Zhao, Shengke Xue, Hao Wang, Xingyue Zhao, Zhongyu Li, Kehan Li, <u>Siteng Huang✉</u>, Mingxiu Chen, Xin Li, Deli Zhao, Hua Zou✉, &quot;**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**&quot;. *IEEE Robotics and Automation Letters*, 2026. [[arXiv](https://arxiv.org/abs/2510.10637)] [[huggingface paper](https://huggingface.co/papers/2510.10637)] [[project page](https://robosimgs.github.io/)]
 
@@ -110,8 +112,6 @@
 <a href="https://arxiv.org/abs/2412.09265" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.09265-B31B1B?style=flat-square"></a> Bofang Jia, Pengxiang Ding, Can Cui, Mingyang Sun, Pengfang Qian, <u>Siteng Huang</u>, Zhaoxin Fan, Donglin Wang, &quot;**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**&quot;. *arXiv preprint arXiv:2412.09265*. [[pdf](https://arxiv.org/pdf/2412.09265.pdf)] [[project page](https://sdm-policy.github.io/)]
 
 <a href="https://arxiv.org/abs/2408.17083" target="_blank"><img src="https://img.shields.io/badge/arXiv-2408.17083-B31B1B?style=flat-square"></a> Fengyuan Dai, <u>Siteng Huang</u>, Min Zhang, Biao Gong, Donglin Wang, &quot;**Focus-Consistent Multi-Level Aggregation for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2408.17083*. [[pdf](https://arxiv.org/pdf/2408.17083.pdf)]
-
-<a href="https://arxiv.org/abs/2405.14700" target="_blank"><img src="https://img.shields.io/badge/arXiv-2405.14700-B31B1B?style=flat-square"></a> Ting Liu†, Xuyang Liu†, <u>Siteng Huang</u>, Liangtao Shi, Zunnan Xu, Yi Xin, Quanjun Yin, Xiaohong Liu, &quot;**Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference**&quot;. *arXiv preprint arXiv:2405.14700*. [[pdf](https://arxiv.org/pdf/2405.14700.pdf)] [[github](https://github.com/liuting20/Sparse-Tuning)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:hqOjcs7Dif8C' href="" target="_blank"></a>
 
 ### Thesis
 

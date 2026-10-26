@@ -26,6 +26,7 @@
 }
 </style>
 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/10/26</span> **[RynnUnify]** We released [RynnUnify](https://arxiv.org/abs/2610.32965), a 16B unified embodied model that integrates visual planning, physical reasoning, and robot control, achieving state-of-the-art results on long-horizon embodied tasks!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/10/02</span> **[TCSVT]** [Sparse-Tuning](https://arxiv.org/abs/2405.14700), an efficient parameter-efficient fine-tuning framework for ViTs, got accepted for IEEE Transactions on Circuits and Systems for Video Technology! [Code](https://github.com/liuting20/Sparse-Tuning) has been available!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/09/30</span> **[Preprint]** We released [RoboChrono](https://arxiv.org/abs/2609.36605), a real robot benchmark for streaming task understanding, evaluating seven tasks grouped into recognition, alignment, and temporal grounding, covering action understanding and anticipation, visual correspondence, temporal ordering, and action localization!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2026/09/25</span> **[NeurIPS'26]** Two papers, [RynnVLA-002](https://arxiv.org/abs/2511.17502) (the upgraded version of WorldVLA) and [VLA-Corrector](https://arxiv.org/abs/2607.01804), got accepted for NeurIPS 2026!
